@@ -87,66 +87,6 @@
   <channel id="MYTV726">
     <display-name>MANIS FM</display-name>
   </channel>
-  <programme channel="MYTV121" start="20230830100000 +0000" stop="20230830103000 +0000">
-    <title>(L) BERNAMA News</title>
-    <desc>A news bulletin providing the best, accurate and timely news on current issues, community, crime, politics, sports, human interest, foreign, business and economics as well as sports and entertainment</desc>
-  </programme>
-  <programme channel="MYTV121" start="20230830103000 +0000" stop="20230830110000 +0000">
-    <title>(L) Mandarin News</title>
-    <desc>A news bulletin specially tailored for the Chinese community, providing daily news coverage on various topics involving politics, economics, culture and education. Follow-up and in-depth reports on issues concerning the Chi</desc>
-  </programme>
-  <programme channel="MYTV121" start="20230830110000 +0000" stop="20230830113000 +0000">
-    <title>(L) Tamil News</title>
-    <desc>Laporan terkini berita dari dalam dan luar negara</desc>
-  </programme>
-  <programme channel="MYTV121" start="20230830113000 +0000" stop="20230830114500 +0000">
-    <title>Sukan+ Close Up</title>
-    <desc>Program Kapsul berdurasi 15 minit, mengupas secara lebih dekat perihal sukan secara menyeluruh melibatkan industri, kejohanan, program, prestasi, isu semasa dan kontroversi dari dalam dan luar negara.</desc>
-  </programme>
-  <programme channel="MYTV121" start="20230830114500 +0000" stop="20230830120000 +0000">
-    <title>(L) Sukan+</title>
-    <desc>Laporan sukan menyeluruh melibatkan keputusan kejohanan, prestasi, isu semasa dan kontroversi dari dalam dan luar negara.</desc>
-  </programme>
-  <programme channel="MYTV121" start="20230830120000 +0000" stop="20230830123000 +0000">
-    <title>(L) Buletin BERNAMA</title>
-    <desc>Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan, selama setengah jam.</desc>
-  </programme>
-  <programme channel="MYTV121" start="20230830123000 +0000" stop="20230830130000 +0000">
-    <title>Darah Muda</title>
-    <desc>Program mingguan terbitan BERNAMA TV ini merangkumkan temubual bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipaparkan saban minggu menarik lagi bermanfaat buat penonton di saluran BERNAMA TV. Selamat</desc>
-  </programme>
-  <programme channel="MYTV121" start="20230830130000 +0000" stop="20230830140000 +0000">
-    <title>(L) Ruang Bicara</title>
-    <desc>Rancangan bual bicara bersama tetamu di studio mengupas topik semasa tanah air.</desc>
-  </programme>
-  <programme channel="MYTV121" start="20230830140000 +0000" stop="20230830143000 +0000">
-    <title>Mandarin News</title>
-    <desc>A news bulletin specially tailored for the Chinese community, providing daily news coverage on various topics involving politics, economics, culture and education. Follow-up and in-depth reports on issues concerning the Chinese</desc>
-  </programme>
-  <programme channel="MYTV121" start="20230830143000 +0000" stop="20230830150000 +0000">
-    <title>(L) BERNAMA News</title>
-    <desc>A news bulletin providing the best, accurate and timely news on current issues, community, crime, politics, sports, human interest, foreign, business and economics as well as sports and entertainment</desc>
-  </programme>
-  <programme channel="MYTV121" start="20230830150000 +0000" stop="20230830153000 +0000">
-    <title>(L) Buletin BERNAMA</title>
-    <desc>Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan, selama setengah jam.</desc>
-  </programme>
-  <programme channel="MYTV121" start="20230830153000 +0000" stop="20230830160000 +0000">
-    <title>Tamil News</title>
-    <desc>Laporan terkini berita dari dalam dan luar negara</desc>
-  </programme>
-  <programme channel="MYTV121" start="20230830160000 +0000" stop="20230830170000 +0000">
-    <title>Ruang Bicara</title>
-    <desc>Rancangan bual bicara bersama tetamu di studio mengupas topik semasa tanah air.</desc>
-  </programme>
-  <programme channel="MYTV121" start="20230830170000 +0000" stop="20230830173000 +0000">
-    <title>Buletin BERNAMA</title>
-    <desc>Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan, selama setengah jam.</desc>
-  </programme>
-  <programme channel="MYTV121" start="20230830173000 +0000" stop="20230830180000 +0000">
-    <title>BERNAMA News</title>
-    <desc>A news bulletin providing the best, accurate and timely news on current issues, community, crime, politics, sports, human interest, foreign, business and economics as well as sports and entertainment</desc>
-  </programme>
   <programme channel="MYTV121" start="20230830180000 +0000" stop="20230830190000 +0000">
     <title>Ruang Bicara</title>
     <desc>Rancangan bual bicara bersama tetamu di studio mengupas topik semasa tanah air.</desc>
@@ -898,66 +838,6 @@
   <programme channel="MYTV121" start="20230903153000 +0000" stop="20230903160000 +0000">
     <title>Tamil News</title>
     <desc>Laporan terkini berita dari dalam dan luar negara</desc>
-  </programme>
-  <programme channel="MYTV101" start="20230830100000 +0000" stop="20230830104500 +0000">
-    <title>LIVE : FIKRAH</title>
-    <desc>Saksikan diskusi lanjut bersama Moderator serta panel undangan.</desc>
-  </programme>
-  <programme channel="MYTV101" start="20230830104500 +0000" stop="20230830114500 +0000">
-    <title>Kalis Peluru</title>
-    <desc>Saksikan lakonan Nas-T, Khairil Qaiyum, Jazmy Juma, Silfeny Osman, Bulan Terry, Muaz Fitri, Mazin Siraj, Hariz OthmanPasukan Inspektor Rahmat ditugaskan untuk operasi membanteras pendatang tanpa izin. Dalam operasi itu, LK Azam telah menembak seorang dalang penjenayah pendatang tanpa izin.</desc>
-  </programme>
-  <programme channel="MYTV101" start="20230830114400 +0000" stop="20230830120000 +0000">
-    <title>LIVE : KANTA 744</title>
-    <desc>Membawakan perkembangan terkini, isu-isu semasa dalam negara serta peristiwa yang berlaku di seluruh dunia.</desc>
-  </programme>
-  <programme channel="MYTV101" start="20230830120000 +0000" stop="20230830130000 +0000">
-    <title>BERITA PERDANA</title>
-    <desc>Membawakan perkembangan terkini dari seluruh negara.</desc>
-  </programme>
-  <programme channel="MYTV101" start="20230830123000 +0000" stop="20230830130000 +0000">
-    <title>BERITA INGGERIS (MALAYSIA TONIGHT)</title>
-    <desc>Bringing the latest updates from across the globe.</desc>
-  </programme>
-  <programme channel="MYTV101" start="20230830130000 +0000" stop="20230830140000 +0000">
-    <title>Diari Rawat 2023 (Ulangan)</title>
-    <desc>Saksikan siaran ulangan perbincangan bersama pakar kesihatan dengan isu-isu kesihatan terkini dalam Diari Rawat.</desc>
-  </programme>
-  <programme channel="MYTV101" start="20230830140000 +0000" stop="20230830143000 +0000">
-    <title>Rona Sabah (Sr. 12) 2023</title>
-    <desc>Rancangan yang membawa penonton melihat kehidupan di sekitar Sabah yang menyimpan pelbagai rahsia alam, serta cara hidup penduduk dan ekonomi setempat.Memaparkan kehidupan beberapa orang petani yang mengusahakan tanaman kelapa di Paitan dan Kinabatangan yang berubah apabila pelaburan yang dibuat oleh syarikat swasta melalui pelan Halatuju Sabah Maju Jaya di kawasan mereka. Projek bernilai RM400 juta di kawasan seluas 2,000 hektar itu mampu menyediakan lebih 4,000 peluang pekerjaan kepada penduduk tempatan. Selain itu, penubuhan kilang pemprosesan kelapa di Langkon juga bakal mengubah landskap ekonomi penanam kelapa di Sabah.</desc>
-  </programme>
-  <programme channel="MYTV101" start="20230830143000 +0000" stop="20230830150000 +0000">
-    <title>Rumahku Negaraku</title>
-    <desc>Dokumentari bertemakan kenegaraanEpisod ini fokus pada budaya, satu perkara yang tidak boleh dipandang ringan dan diremehkan. Nilai budaya murni yang tinggi mencerminkan ketamadunan dan kehebatan sejarah pembentukan negara itu sendiri.</desc>
-  </programme>
-  <programme channel="MYTV101" start="20230830150000 +0000" stop="20230830153000 +0000">
-    <title>BERITA DUNIA</title>
-    <desc>Saksikan Perkembangan berita terkini, Isu-isu semasa luar negara.</desc>
-  </programme>
-  <programme channel="MYTV101" start="20230830153000 +0000" stop="20230830160000 +0000">
-    <title>How Do They Do It</title>
-    <desc>Sebuah dokumentari yang memaparkan teknologi pembuatan pelbagai jenis produk.Sebuah dokumentari yang memaparkan teknologi pembuatan Bird's Nest Soup, Rowing Oars dan Castanuelas.</desc>
-  </programme>
-  <programme channel="MYTV101" start="20230830160000 +0000" stop="20230830163000 +0000">
-    <title>BERITA TENGAH MALAM</title>
-    <desc>Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
-  </programme>
-  <programme channel="MYTV101" start="20230830163000 +0000" stop="20230830170000 +0000">
-    <title>Misi Jejak Warisan</title>
-    <desc>Misi Jejak Warisan membawa penonton menjelajah ke tempat-tempat bersejarah di Malaysia.Dalam episod ini Atoi ke Seremban. Antara lokasi menarik ialah Sabak Salai, Kompleks Sejarah Pengkalan Kempas, Muzium Tentera Darat, Pantai Port Dickson, Kota Lukut dan istana Ampang Tinggi</desc>
-  </programme>
-  <programme channel="MYTV101" start="20230830170000 +0000" stop="20230830173000 +0000">
-    <title>Geng Zul Teksi</title>
-    <desc>Saksikan lakonan Danny Anwa, Siti Fazurina, Nabil Wahab, Siti Fazurita, Munir Awang, Ayda Jebat, Riza Hasbi, Puteri Emelia.Cuti-Cuti Mengisahkan Zul dan Rakan-rakanya merancang untuk bercuti di Air Terjun. Lily meminta kebenaran ayahnya untuk turut serta. Mereka menyewa  Van ke sana dan pelbagai insiden berlaku</desc>
-  </programme>
-  <programme channel="MYTV101" start="20230830173000 +0000" stop="20230830174500 +0000">
-    <title>Impak Geologi</title>
-    <desc>Impak Geologi membawakan formasi geologi unik yang terbentuk secara semula jadi dalam negara.Khazanah Geologi - Geologi Aring bersama Atilia Bashardin Pegawai Geosians JMG Musang Kelantan</desc>
-  </programme>
-  <programme channel="MYTV101" start="20230830180000 +0000" stop="20230830183000 +0000">
-    <title>Rahsia Si Comel</title>
-    <desc>Bersama hos rancangan Aepul Bakri berkongsi informasi dan latar belakang haiwan perliharaan serta tips dan teknik penjagaannya.Jom! Bersama Abang Aepul Bakri kenali haiwan peliharaan iaitu Semut.</desc>
   </programme>
   <programme channel="MYTV101" start="20230830183000 +0000" stop="20230830190000 +0000">
     <title>Gadis Dan Gua</title>
@@ -1743,65 +1623,29 @@
     <title>Rahsia Si Comel</title>
     <desc>Bersama hos rancangan Aepul Bakri berkongsi informasi dan latar belakang haiwan perliharaan serta tips dan teknik penjagaannya.Jom! Bersama Abang Aepul Bakri kenali haiwan peliharaan iaitu Burung.</desc>
   </programme>
-  <programme channel="MYTV110" start="20230830100000 +0000" stop="20230830103000 +0000">
-    <title>Negaraku - Budaya, Warisan &amp; Masa Depan</title>
-    <desc>Sebuah dokumentari khas untuk anda.Sebuah dokumentari khas untuk anda.</desc>
+  <programme channel="MYTV101" start="20230905183000 +0000" stop="20230905190000 +0000">
+    <title>Cina Muslim Malaysia</title>
+    <desc>Cina Muslim Malaysia memaparkan keunikan budaya masyarakat Cina Muslim yang terdapat di Malaysia.Saksikan Iswan Ismail menyingkap sejarah cina muslim di Malaysia bersama Profesor Dr. Taufiq Yap.</desc>
   </programme>
-  <programme channel="MYTV110" start="20230830103000 +0000" stop="20230830104400 +0000">
-    <title>i-Iban</title>
-    <desc>Saksikan berita dalam bahasa Iban.Saksikan berita dalam bahasa Iban.</desc>
+  <programme channel="MYTV101" start="20230905190000 +0000" stop="20230905193000 +0000">
+    <title>Iris Wanita 2023</title>
+    <desc>Saksikan pengacara bersama tetamu jemputan membicarakan topik berkaitan wanita.Iris Wanita topik Saya Sayang Malaysia</desc>
   </programme>
-  <programme channel="MYTV110" start="20230830104400 +0000" stop="20230830104500 +0000">
-    <title>Klip Video 2 Minit</title>
-    <desc>Seleksi klip video menarik khas untuk anda.Seleksi klip video menarik khas untuk anda.</desc>
+  <programme channel="MYTV101" start="20230905193000 +0000" stop="20230905200000 +0000">
+    <title>Singgah Sini</title>
+    <desc>Majalah travelog yang dihoskan oleh Arjaa Lee meninjau keunikan inap desa dan keindahan alam sekitar yang berhampiran serta aktiviti menarik yang boleh dilakukan di sana.Saksikan Arja Lee berkongsi tentang inap desa yang menarik serta unik juga keindahan dan aktiviti yang boleh dilakukan di Fiq Tree Hill dan The Eco Capsule Resort.</desc>
   </programme>
-  <programme channel="MYTV110" start="20230830104500 +0000" stop="20230830110000 +0000">
-    <title>i-Dusun</title>
-    <desc>Saksikan berita dalam bahasa Kadazan.Saksikan berita dalam bahasa Kadazan.</desc>
+  <programme channel="MYTV101" start="20230905200000 +0000" stop="20230905203000 +0000">
+    <title>Citarasa Medika</title>
+    <desc>Sebuah rancangan masakan yang akan menyajikan resepi-resepi makanan yang berkhasiat.Bersama Cef Fikree Aznan yang akan berkongsi resepi Pita Ayam, Salmon Panggang Bersama Sos Lemon dan Jus Avokado.</desc>
   </programme>
-  <programme channel="MYTV110" start="20230830110000 +0000" stop="20230830113000 +0000">
-    <title>Eksotika Etnik</title>
-    <desc>Sebuah rancangan menarik untuk tontonan anda.Kodi Rasheed berfokus kepada seni kaum etnik Bidayuh.</desc>
+  <programme channel="MYTV101" start="20230905203000 +0000" stop="20230905213000 +0000">
+    <title>Cinta Untuk Raf</title>
+    <desc>Saksikan lakonan Sasqia Dahuri, Luqman Hafidz, Tash Yang, Badrul Muhayat, Dilla Ahmad, Mustaqim Bahadon, Tina Rasid, Melissa Campbell, Kristina Vinokree.Orked telah diterima bekerja di hospital psikiatrik. En. Raf, ketua jabatan akaun mula berminat dengan Orked.</desc>
   </programme>
-  <programme channel="MYTV110" start="20230830113000 +0000" stop="20230830120000 +0000">
-    <title>Dunia Baharu</title>
-    <desc>Sebuah rancangan yang berkongsi tentang motivasi dan cerita bersama tetamu jemputan.Sebuah rancangan yang berkongsi tentang motivasi dan cerita bersama tetamu jemputan.</desc>
-  </programme>
-  <programme channel="MYTV110" start="20230830120000 +0000" stop="20230830123000 +0000">
-    <title>Pasti Pastri</title>
-    <desc>Peperangan di dapur antara dua selebriti tempatan yang ditugaskan untuk memasak menu yang sama dan diadili oleh hos, Dato' Fadzley Yaakob.</desc>
-  </programme>
-  <programme channel="MYTV110" start="20230830123000 +0000" stop="20230830130000 +0000">
-    <title>Permata Negara</title>
-    <desc>Bersama Sharul Kamal yang akan berkongsi keindahan tempat menarik yang menjadi tumpuan di setiap negeri di Semenanjung Malaysia bersama artis jemputan.</desc>
-  </programme>
-  <programme channel="MYTV110" start="20230830130000 +0000" stop="20230830140000 +0000">
-    <title>Normi Kemball</title>
-    <desc>Mengisahkan Normi seorang gadis lepasan universiti yang tidak menjaga penampilan diri dan ditawarkan kerja sebagai wartawan.Nuri dan Amsha mencari jalan untuk mendamaikan keluarga mereka.</desc>
-  </programme>
-  <programme channel="MYTV110" start="20230830140000 +0000" stop="20230830160000 +0000">
-    <title>Ungku</title>
-    <desc>Saksikan kisah Ungku Munirah yang berdepan dengan fitnah selepas dia membatalkan perkahwinannya dengan Bahari. Ungku Munirah telah memilih untuk menyambung perjuangan arwah bapanya untuk membina sebuah sekolah.</desc>
-  </programme>
-  <programme channel="MYTV110" start="20230830160000 +0000" stop="20230830163000 +0000">
-    <title>Klip Video 30 Minit</title>
-    <desc>Seleksi klip - klip video terbaik untuk anda.</desc>
-  </programme>
-  <programme channel="MYTV110" start="20230830163000 +0000" stop="20230830170000 +0000">
-    <title>Inspirasi</title>
-    <desc>Rancangan menarik yang memaparkan dekorasi dan susun atur rumah kediaman.Memaparkan banglo konsep ala klasik dan membincangkan topik mengenai Pinjaman perumahan.</desc>
-  </programme>
-  <programme channel="MYTV110" start="20230830170000 +0000" stop="20230830173000 +0000">
-    <title>Cari Apa Tu?</title>
-    <desc>Sebuah travelog mengenai pengembaraan bajet yang meneroka pelbagai tempat menarik di Malaysia.</desc>
-  </programme>
-  <programme channel="MYTV110" start="20230830173000 +0000" stop="20230830180000 +0000">
-    <title>Jom Redah</title>
-    <desc>Membawa penonton ke beberapa tempat yang menarik di Malaysia.Hos akan membawa penonton ke Ekstreme Park di Port Dickson.</desc>
-  </programme>
-  <programme channel="MYTV110" start="20230830180000 +0000" stop="20230830183000 +0000">
-    <title>Traveller's Treat</title>
-    <desc>Rancangan travelog yang dihoskan oleh Sasha Saidin yang akan membawa penonton menjelajah ke beberapa bahagian lokasi pilihan di luar negara untuk meninjau dan berkongsi tempat-tempat yang menarik dan makanan halal tempatanMengujungi ke beberapa tempat di sekitar Bandaraya Johannesburg dan merasai pelbagai makanan yang lazat di sana.</desc>
+  <programme channel="MYTV101" start="20230905213000 +0000" stop="20230905220000 +0000">
+    <title>Surah Al Rahman</title>
+    <desc>Saksikan bacaan Surah Al-Rahman.Saksikan bacaan Surah Al-Rahman.</desc>
   </programme>
   <programme channel="MYTV110" start="20230830183000 +0000" stop="20230830190000 +0000">
     <title>Negaraku - Budaya, Warisan &amp; Masa Depan</title>
@@ -2863,57 +2707,25 @@
     <title>Hello Sunset</title>
     <desc>Bersama Myra Natasya yang menjemput tetamu jemputan setiap episod.Bersama Myra Natasya yang menjemput tetamu jemputan setiap episod.</desc>
   </programme>
-  <programme channel="MYTV111" start="20230830100000 +0000" stop="20230830103000 +0000">
-    <title>X-SKILL</title>
-    <desc>Sebuah program majalah sukan yang memaparkan kemahiran-kemahiran sukan ekstrim penuh aksi dan cabaran.</desc>
+  <programme channel="MYTV110" start="20230905183000 +0000" stop="20230905190000 +0000">
+    <title>Kafe BBNU</title>
+    <desc>Cef Fazley Yaakob akan menjemput seorang penyanyi BBNU untuk berkongsi resipi manisan di dapurnya.</desc>
   </programme>
-  <programme channel="MYTV111" start="20230830103000 +0000" stop="20230830110000 +0000">
-    <title>Aksi Roda</title>
-    <desc>Menyelami dunia pelbagai jenis basikal antaranya BMX Freestyle, BMX Racing, Mountain Bike, Track Bike/ Racing Bike, Basikal Lebuhraya, Driffer, dan sebagainya di samping pandangan daripada pembuat basikal.Episod kali ini Aepul Bakri berada di Langkawi untuk melihat aktiviti kayuhan basikal bersama beberapa tetamu. Selain itu, beliau juga melihat aktiviti sempena berlangsungnya Le Tour de Langkawi.</desc>
+  <programme channel="MYTV110" start="20230905190000 +0000" stop="20230905193000 +0000">
+    <title>13 Hari Miri - Sibuti</title>
+    <desc>Sebuah rancangan yang membawa penonton menyelam di tempat terpilih.Episod kali ini menyelam di Taman Negara Terumbu Karang Miri-Sibuti, Sarawak.</desc>
   </programme>
-  <programme channel="MYTV111" start="20230830110000 +0000" stop="20230830113000 +0000">
-    <title>Kapsul RTM Sports</title>
-    <desc>Kepelbagaian kapsul untuk tontonan bersama.</desc>
+  <programme channel="MYTV110" start="20230905193000 +0000" stop="20230905203000 +0000">
+    <title>Kami Bah Ini 2023</title>
+    <desc>Kami Bah ini memaparkan berita dan isu semasa termasuk memperkenalkan personaliti dari Sabah khas untuk anda.</desc>
   </programme>
-  <programme channel="MYTV111" start="20230830113000 +0000" stop="20230830120000 +0000">
-    <title>Sports Max 2023</title>
-    <desc>Saksikan rangkuman pelbagai aksi sukan dan perlawanan dari luar negara.</desc>
+  <programme channel="MYTV110" start="20230905203000 +0000" stop="20230905210000 +0000">
+    <title>Bukan Jalan Biasa</title>
+    <desc>Bersama Mat Redho meneroka pelbagai tempat menarik di sekitar Malaysia.Mat Redho meneruskan perjalanan ke Kundasang dan menuju ke Kota Belud. Beliau juga singgah ke Kampung Melangkap Tiong.</desc>
   </programme>
-  <programme channel="MYTV111" start="20230830120000 +0000" stop="20230830130000 +0000">
-    <title>Bola Sepak Piala Malaysia 2023 (Ulangan)</title>
-    <desc>Saksikan ulangan Bola Sepak Piala Malaysia 2023.Perlawanan antara Sri Pahang FC menentang Harini Selangor FT.</desc>
-  </programme>
-  <programme channel="MYTV111" start="20230830130000 +0000" stop="20230830140000 +0000">
-    <title>Bola Sepak Piala Malaysia 2023 (Ulangan)</title>
-    <desc>Saksikan ulangan Bola Sepak Piala Malaysia 2023.Perlawanan antara Sri Pahang FC menentang Harini Selangor FT.</desc>
-  </programme>
-  <programme channel="MYTV111" start="20230830140000 +0000" stop="20230830143000 +0000">
-    <title>Adiwira Negaraku</title>
-    <desc>Saksikan program majalah yang mengangkat atlet-atlet Paralimpik yang telah mengharumkan nama Negara dalam bidang masing-masing di persada dunia.EP.3 LEGENDA: Episod kali ini memaparkan perjalanan dua atlet legenda paralimpik negara dalam acara angkat berat para iaitu Mariappan Perumal dan Cheok Kon Fat.</desc>
-  </programme>
-  <programme channel="MYTV111" start="20230830143000 +0000" stop="20230830150000 +0000">
-    <title>Sembang Sukan</title>
-    <desc>Sebuah program bual bicara santai yang akan menampilkan atlet-atlet negara untuk mengupas kisah dan cabaran yang dihadapi sepanjang kerjaya mereka.</desc>
-  </programme>
-  <programme channel="MYTV111" start="20230830150000 +0000" stop="20230830153000 +0000">
-    <title>Retro : Aksi</title>
-    <desc>Saksikan cabaran yang perlu dihadapi peserta dalam kejohanan 'Harumanis Adventure Trail Run' bertempat di Negeri Perlis.Berkonsepkan larian lasak, peserta perlu menamatkan larian 10 km, 4 km mendaki bukit, dan 4 tugasan misteri sepanjang track laluan.</desc>
-  </programme>
-  <programme channel="MYTV111" start="20230830153000 +0000" stop="20230830163000 +0000">
-    <title>Sorotan Harian Sukan Sea Kemboja 2023</title>
-    <desc>Ikuti semula sorotan perkembangan atlet Malaysia yang bertanding dalam acara Sukan Sea Kemboja 2023.</desc>
-  </programme>
-  <programme channel="MYTV111" start="20230830163000 +0000" stop="20230830173000 +0000">
-    <title>Sukan Lejen</title>
-    <desc>Program yang mengimbas kembali detik-detik kegemilangan atlet dalam dunia sukan.Imbasan Kejohanan Badminton Piala Dunia ke-3 yang berlangsung di Stadium Negara Kuala Lumpur antara Misbun Sidek dan Chen Changjie.</desc>
-  </programme>
-  <programme channel="MYTV111" start="20230830173000 +0000" stop="20230830180000 +0000">
-    <title>Retro</title>
-    <desc>Sebuah rancangan santai bersama para atlet untuk mengenali mereka dari sisi yang kita belum ketahui.Episod kali ini bersama atlet Taekwando negara, Noraslinda Mohd Johari.</desc>
-  </programme>
-  <programme channel="MYTV111" start="20230830180000 +0000" stop="20230830183000 +0000">
-    <title>Pencak Pusaka</title>
-    <desc>Sebuah program realiti televisyen bagi mencari peserta terbaik yang mempunyai bakat dan kemahiran dalam pencak seni persilatan.Bersama pengacara, Qadri Nurhalim memaparkan perjalanan peserta dalam setiap episod bagi merangkul  gelaran juara pencak pusaka terulung.</desc>
+  <programme channel="MYTV110" start="20230905210000 +0000" stop="20230905220000 +0000">
+    <title>Normi Kemball</title>
+    <desc>Mengisahkan Normi seorang gadis lepasan universiti yang tidak menjaga penampilan diri dan ditawarkan kerja sebagai wartawan.</desc>
   </programme>
   <programme channel="MYTV111" start="20230830183000 +0000" stop="20230830190000 +0000">
     <title>Sungai X-Trem</title>
@@ -3915,81 +3727,169 @@
     <title>Pencak Pusaka</title>
     <desc>Sebuah program realiti televisyen bagi mencari peserta terbaik yang mempunyai bakat dan kemahiran dalam pencak seni persilatan.Bersama pengacara, Qadri Nurhalim memaparkan perjalanan peserta dalam setiap episod bagi merangkul  gelaran juara pencak pusaka terulung.</desc>
   </programme>
-  <programme channel="MYTV123" start="20230830100000 +0000" stop="20230830101500 +0000">
-    <title>Demi Negara</title>
-    <desc>Demi Negara memaparkan tugasan yang digalas oleh penjawat awam dalam menyampaikan perkhidmatan yang terbaik kepada masyarakat.</desc>
+  <programme channel="MYTV111" start="20230905183000 +0000" stop="20230905190000 +0000">
+    <title>Sungai X-Trem</title>
+    <desc>Sebuah rancangan majalah sukan lasak yang membawakan kepada penonton keterujaan melakukan  aksi water-rafting di sungai-sungai seluruh Malaysia.Bersama pengacara, Dhiya  dan artis jemputan Keena melakukan aktiviti melakukan  aksi water-rafting di Sungai Selangor.</desc>
   </programme>
-  <programme channel="MYTV123" start="20230830101500 +0000" stop="20230830103000 +0000">
-    <title>Demi  Negara</title>
-    <desc>Demi Negara memaparkan tugasan yang digalas oleh penjawat awam dalam menyampaikan perkhidmatan yang terbaik kepada masyarakat.</desc>
+  <programme channel="MYTV111" start="20230905190000 +0000" stop="20230905193000 +0000">
+    <title>Juara Maya</title>
+    <desc>Majalah E-Sukan tempatan yang dihoskan oleh Hiera Hassan.Ikuti perkembangan dunia E-Sukan tempatan dan antarabangsa bersama hos Hiera Hassan.</desc>
   </programme>
-  <programme channel="MYTV123" start="20230830103000 +0000" stop="20230830104500 +0000">
-    <title>i-Iban</title>
-    <desc>Saksikan berita dalam bahasa Iban.</desc>
+  <programme channel="MYTV111" start="20230905193000 +0000" stop="20230905203000 +0000">
+    <title>Interaktif Sukan 2023 (Ulangan)</title>
+    <desc>Saksikan kembali Interaktif Sukan, rancangan realiti interaktif untuk mencungkil bakat-bakat baharu dalam bidang pengulasan sukan. Saksikan siaran langsungnya setiap hari Ahad pukul 10 malam di saluran Sukan R</desc>
   </programme>
-  <programme channel="MYTV123" start="20230830104500 +0000" stop="20230830110000 +0000">
-    <title>i-Dusun</title>
-    <desc>Saksikan berita dalam bahasa Kadazan.</desc>
+  <programme channel="MYTV111" start="20230905203000 +0000" stop="20230905210000 +0000">
+    <title>Extreme E: Electric Odyssey 2022</title>
+    <desc>Saksikan keterujaan mengendalikan jentera yang berinovasi dan berteknologi tinggi, yang menggunakan kuasa elektrik.Barisan pemandu hebat yang terlibat dalam perlumbaan menggunakan jentera ini, turut berlumba di litar yang pelbagai bentuk muka buminya.</desc>
   </programme>
-  <programme channel="MYTV123" start="20230830110000 +0000" stop="20230830113000 +0000">
-    <title>BERITA MANDARIN</title>
-    <desc>Berita berbahasa Mandarin yang memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.Ikuti Berita Mandarin yang memaparkan perkembangan politik, sosial, ekonomi, sukan hiburan dan isu-isu semasa.</desc>
+  <programme channel="MYTV111" start="20230905210000 +0000" stop="20230905213000 +0000">
+    <title>Cub Prix Adrenalin 2023</title>
+    <desc>Saksikan Aspirasi Cub Prix pelbagai soroton perlumbaan 2023</desc>
   </programme>
-  <programme channel="MYTV123" start="20230830113000 +0000" stop="20230830114400 +0000">
-    <title>BERITA TAMIL</title>
-    <desc>Berita berbahasa Tamil yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
+  <programme channel="MYTV111" start="20230905213000 +0000" stop="20230905220000 +0000">
+    <title>Sports Max 2022</title>
+    <desc>Saksikan rangkuman pelbagai aksi sukan dan perlawanan dari luar negara.</desc>
   </programme>
-  <programme channel="MYTV123" start="20230830114400 +0000" stop="20230830120000 +0000">
-    <title>LIVE : KANTA 744</title>
-    <desc>Saksikan program KANTA 744 secara langsung di Saluran Berita RTM.</desc>
+  <programme channel="MYTV111" start="20230905220000 +0000" stop="20230905220500 +0000">
+    <title>Klip Negaraku</title>
+    <desc>Lagu Negaraku</desc>
   </programme>
-  <programme channel="MYTV123" start="20230830120000 +0000" stop="20230830123000 +0000">
-    <title>BERITA PERDANA</title>
-    <desc>Membawakan perkembangan berita sahih terkini dari seluruh negara.</desc>
+  <programme channel="MYTV111" start="20230905220500 +0000" stop="20230905230000 +0000">
+    <title>Kapsul RTM Sports 60 Minit</title>
+    <desc>Saksikan kepelbagaian kapsul sukan, info menarik segalanya pasal sukan khas untuk tontonan anda .</desc>
   </programme>
-  <programme channel="MYTV123" start="20230830123000 +0000" stop="20230830130000 +0000">
-    <title>BERITA INGGERIS (MALAYSIA TONIGHT)</title>
-    <desc>Bringing the latest updates from across the globe.</desc>
+  <programme channel="MYTV111" start="20230905230000 +0000" stop="20230905233000 +0000">
+    <title>Rutin Sihat</title>
+    <desc>Sebuah rancangan yang memaparkan teknik senaman dan aktiviti kecergasan yang boleh diamalkan  sebagai rutin harian untuk tetap bersenam, sihat dan cergas setiap hari.Juga dikongsikan kepelbagaian menu sihat dan mengenyangkan yang boleh dicuba oleh penonton.</desc>
   </programme>
-  <programme channel="MYTV123" start="20230830130000 +0000" stop="20230830140000 +0000">
-    <title>DIARI RAWAT</title>
-    <desc>Saksikan siaran ulangan perbincangan bersama pakar kesihatan dengan isu-isu kesihatan terkini dalam Diari Rawat.</desc>
+  <programme channel="MYTV111" start="20230905233000 +0000" stop="20230906000000 +0000">
+    <title>Dimensi Cergas</title>
+    <desc>Saksikan teknik-teknik meningkatkan kecergasan seperti latihan kecergasan rintangan tinggi.Episod kali ini menunjukkan cara Senaman Tabata.</desc>
   </programme>
-  <programme channel="MYTV123" start="20230830140000 +0000" stop="20230830150000 +0000">
-    <title>Bisikan Pejuang : Disebalik Ops Gubir</title>
-    <desc>Dokumentari yang memaparkan pahit jerih pasukan keselamatan dalam mempertaruhkan nyawa mempertahankan negara tercinta ini. Bisikian Pejuang... Ops Gubir menumpukan kepada perjalanan keseluruhan operasi G</desc>
+  <programme channel="MYTV111" start="20230906000000 +0000" stop="20230906003000 +0000">
+    <title>Gyms In School</title>
+    <desc>Rancangan sukan untuk pelajar sekolah.Bersama pengacara Azlan Iskandar ke Sekolah Antarabangsa Regent, Klang untuk berkongsi tips dan teknik latihan dalam sukan Badminton.</desc>
   </programme>
-  <programme channel="MYTV123" start="20230830150000 +0000" stop="20230830153000 +0000">
-    <title>BERITA DUNIA</title>
-    <desc>Membawakan perkembangan terkini dari seluruh dunia.</desc>
+  <programme channel="MYTV111" start="20230906003000 +0000" stop="20230906010000 +0000">
+    <title>Get Fit Get Focus</title>
+    <desc>Sebuah rancangan kesihatan dan kecergasan supaya hidup kekal cergas dan fokus dalam kehidupan seharian.Rancangan majalah kesihatan  berbahasa Inggeris ini dihoskan oleh Soo Wincci  yang mana menekankan aspek kecergasan dan penjagaan  kesihatan supaya kekal fokus dan sihat dalam meneruskan kehidupan.</desc>
   </programme>
-  <programme channel="MYTV123" start="20230830153000 +0000" stop="20230830154500 +0000">
-    <title>26 Wad</title>
-    <desc>26 WAD ADALAH MERUPAKAN SEBUAH DOKUMENTARI PERUBATAN YANG MEMBAWAKAN 26 PENYAKIT DARI PERSPEKTIF PAKAR PERUBATAN DAN PESAKIT.</desc>
+  <programme channel="MYTV111" start="20230906010000 +0000" stop="20230906013000 +0000">
+    <title>Living Well</title>
+    <desc>Rancangan bahasa Inggeris yang memaparkan pelbagai informasi untuk gaya hidup yang sihat bersama Kit Mah.Hos menunjukkan senaman yang mudah seperti senaman leher, lengan, bahu, dada dan kaki yang boleh di buat dalam kereta apabila kenderaan tidak bergerak semasa kesesakan jalan raya.</desc>
   </programme>
-  <programme channel="MYTV123" start="20230830154500 +0000" stop="20230830160000 +0000">
-    <title>26 Wad</title>
-    <desc>26 WAD ADALAH MERUPAKAN SEBUAH DOKUMENTARI PERUBATAN YANG MEMBAWAKAN 26 PENYAKIT DARI PERSPEKTIF PAKAR PERUBATAN DAN PESAKIT.</desc>
+  <programme channel="MYTV111" start="20230906013000 +0000" stop="20230906020000 +0000">
+    <title>Sihat Holistik</title>
+    <desc>Menampilkan pelbagai informasi kesihatan dan juga bagaimana membina personaliti yang unggul.</desc>
   </programme>
-  <programme channel="MYTV123" start="20230830160000 +0000" stop="20230830163000 +0000">
-    <title>BERITA TENGAH MALAM</title>
-    <desc>Berita akhir yang membawakan perkembangan berita mutakhir dari seluruh negara.</desc>
+  <programme channel="MYTV111" start="20230906020000 +0000" stop="20230906023000 +0000">
+    <title>Sports Max 2022</title>
+    <desc>Saksikan rangkuman pelbagai aksi sukan dan perlawanan dari luar negara.</desc>
   </programme>
-  <programme channel="MYTV123" start="20230830163000 +0000" stop="20230830170000 +0000">
-    <title>Biz Malaysia 2023 (Ulangan)</title>
-    <desc>Saksikan perkembangan terkini dunia ekonomi Malaysia dalam Biz Malaysia.</desc>
+  <programme channel="MYTV111" start="20230906023000 +0000" stop="20230906030000 +0000">
+    <title>Minime</title>
+    <desc>Rancangan kanak-kanak yang mengetengahkan bakat atlet muda bersama ikon sukan.Jom! bersama Erissa dan Wafiy mengenali atlet muda, Muhammad Fahim Shari dan Daiyan Haidhar Dick Hamidi serta mentornya, Im Mok Tee Meng (International Master) serta berkongsi tentang aktiviti sukan chess.</desc>
   </programme>
-  <programme channel="MYTV123" start="20230830170000 +0000" stop="20230830173000 +0000">
-    <title>Pastikan Sahih 2023 (Ulangan)</title>
-    <desc>Rancangan bual bicara santai untuk berkongsi maklumat yang benar dan menafikan berita-berita palsu yang viral di media sosial.</desc>
+  <programme channel="MYTV111" start="20230906030000 +0000" stop="20230906033000 +0000">
+    <title>Game Changer</title>
+    <desc>Saksikan Game Changer bersama pengacara</desc>
   </programme>
-  <programme channel="MYTV123" start="20230830173000 +0000" stop="20230830180000 +0000">
-    <title>Navigasi</title>
-    <desc>Saksikan kehebatan industri maritim tempatan memperkenalkan pelbagai teknologi baharu dalam industri berkenaan. Navigasi turut memaparkan komitmen pihak berkuasa menjaga peprairan maritim negara.</desc>
+  <programme channel="MYTV111" start="20230906033000 +0000" stop="20230906040000 +0000">
+    <title>Aksi Roda</title>
+    <desc>Menyelami dunia pelbagai jenis basikal antaranya BMX Freestyle, BMX Racing, Mountain Bike, Track Bike/ Racing Bike, Basikal Lebuhraya, Driffer, dan sebagainya di samping pandangan daripada pembuat basikal.Ketahui dengan lebih lanjut tentang Basikal Lasak/Basikal Bukit bersama Aepul Bakri dan Syed Munawar Syed Muhammad serta Nik Roslan.</desc>
   </programme>
-  <programme channel="MYTV123" start="20230830180000 +0000" stop="20230830183000 +0000">
-    <title>Frekuensi Hertz</title>
-    <desc>Program majalah informatif yang memaparkan tentang kegunaan Hertz dalam kehidupan.</desc>
+  <programme channel="MYTV111" start="20230906040000 +0000" stop="20230906040500 +0000">
+    <title>LIVE: STADIUM RTM (5 MINIT)</title>
+    <desc>Saksikan siaran langsung Stadium RTM.</desc>
+  </programme>
+  <programme channel="MYTV111" start="20230906040500 +0000" stop="20230906043000 +0000">
+    <title>Pencak Pusaka</title>
+    <desc>Sebuah program realiti televisyen bagi mencari peserta terbaik yang mempunyai bakat dan kemahiran dalam pencak seni persilatan.Bersama pengacara, Qadri Nurhalim memaparkan perjalanan peserta dalam setiap episod bagi merangkul  gelaran juara pencak pusaka terulung.</desc>
+  </programme>
+  <programme channel="MYTV111" start="20230906043000 +0000" stop="20230906050000 +0000">
+    <title>Retro</title>
+    <desc>Saksikan paparan menarik sukan rakyat dan sukan ekstrem.Tetamu episod kali ini bersama Anuar Manan Atlet berbasikal Lebuhraya negara.</desc>
+  </programme>
+  <programme channel="MYTV111" start="20230906050000 +0000" stop="20230906053000 +0000">
+    <title>Extreme E: Electric Odyssey 2022</title>
+    <desc>Saksikan keterujaan mengendalikan jentera yang berinovasi dan berteknologi tinggi, yang menggunakan kuasa elektrik.Barisan pemandu hebat yang terlibat dalam perlumbaan menggunakan jentera ini, turut berlumba di litar yang pelbagai bentuk muka buminya.</desc>
+  </programme>
+  <programme channel="MYTV111" start="20230906053000 +0000" stop="20230906060000 +0000">
+    <title>Cub Prix Adrenalin 2023</title>
+    <desc>Saksikan Aspirasi Cub Prix pelbagai soroton perlumbaan 2023</desc>
+  </programme>
+  <programme channel="MYTV111" start="20230906060000 +0000" stop="20230906070000 +0000">
+    <title>Sukan Lejen</title>
+    <desc>Program yang mengimbas kembali detik-detik kegemilangan atlet dalam dunia sukan.Imbasan perlawanan Bola Sepak Kelayakan Olimpik 2000 antara pasukan Filipina menentang pasukan Malaysia.</desc>
+  </programme>
+  <programme channel="MYTV111" start="20230906070000 +0000" stop="20230906080000 +0000">
+    <title>Interaktif Sukan 2023 (Ulangan)</title>
+    <desc>Saksikan kembali Interaktif Sukan, rancangan realiti interaktif untuk mencungkil bakat-bakat baharu dalam bidang pengulasan sukan bersama pengacara, Ninie Ibrahim. Saksikan siaran langsungnya setiap hari Ahad</desc>
+  </programme>
+  <programme channel="MYTV111" start="20230906080000 +0000" stop="20230906080500 +0000">
+    <title>LIVE: STADIUM RTM (5 MINIT)</title>
+    <desc>Saksikan siaran langsung Stadium RTM.</desc>
+  </programme>
+  <programme channel="MYTV111" start="20230906080500 +0000" stop="20230906090500 +0000">
+    <title>TNB Liga Hoki Malaysia 2023 (TNB MHL)-Lelaki</title>
+    <desc>Saksikan TNB Liga Hoki Malaysia (TNB MHL) 2023.Perlawanan antara Tenaga Nasional Berhad (TNB) menentang ATM.</desc>
+  </programme>
+  <programme channel="MYTV111" start="20230906090500 +0000" stop="20230906100000 +0000">
+    <title>TNB Liga Hoki Malaysia 2023 (TNB MHL)-Lelaki</title>
+    <desc>Saksikan TNB Liga Hoki Malaysia (TNB MHL) 2023.Perlawanan antara Tenaga Nasional Berhad (TNB) menentang ATM.</desc>
+  </programme>
+  <programme channel="MYTV111" start="20230906100000 +0000" stop="20230906103000 +0000">
+    <title>Juara Maya</title>
+    <desc>Majalah e-sukan tempatan yang dihoskan oleh Hiera Hassan.Ikuti perkembangan dunia e-sukan tempatan dan antarabangsa.</desc>
+  </programme>
+  <programme channel="MYTV111" start="20230906103000 +0000" stop="20230906110000 +0000">
+    <title>Raja Drift</title>
+    <desc>Sebuah program rancangan realiti sukan lasak permotoran drift yang dihoskan oleh Adlin Aman Ramli.Setiap episod peserta akan bertanding  bagi merebut kedudukan terbaik  untuk merangkul gelaran juara  Raja Drift.</desc>
+  </programme>
+  <programme channel="MYTV111" start="20230906110000 +0000" stop="20230906113000 +0000">
+    <title>Kapsul RTM Sports</title>
+    <desc>Kepelbagaian kapsul untuk tontonan bersama.</desc>
+  </programme>
+  <programme channel="MYTV111" start="20230906113000 +0000" stop="20230906120000 +0000">
+    <title>Sports Max 2023</title>
+    <desc>Saksikan rangkuman pelbagai aksi sukan dan perlawanan dari luar negara.</desc>
+  </programme>
+  <programme channel="MYTV111" start="20230906120000 +0000" stop="20230906130000 +0000">
+    <title>Bola Sepak Liga Super 2023</title>
+    <desc>Ikuti kembali Perlawanan Bola Sepak Liga Super 2023.Pertembungan di antara Selangor FC menentang Kedah Darul Aman FC.</desc>
+  </programme>
+  <programme channel="MYTV111" start="20230906130000 +0000" stop="20230906140000 +0000">
+    <title>Bola Sepak Liga Super 2023</title>
+    <desc>Ikuti kembali Perlawanan Bola Sepak Liga Super 2023.Pertembungan di antara Selangor FC menentang Kedah Darul Aman FC.</desc>
+  </programme>
+  <programme channel="MYTV111" start="20230906140000 +0000" stop="20230906143000 +0000">
+    <title>Prestasi Podium</title>
+    <desc>Sebuah rancangan bersifat santai tetapi berinformatif yang memaparkan keunggulan serta pencapaian terbaik yang berjaya diraih oleh atlet sukan dan penggiat sukan  di Malaysia. Yang mana pencapaian mereka juga diiktiraf di perEpisod kali ini menemu bual Sara Yap Khim Wen,  Atlet Taekwondo Poomsae Malaysia.</desc>
+  </programme>
+  <programme channel="MYTV111" start="20230906143000 +0000" stop="20230906150000 +0000">
+    <title>Sembang Sukan</title>
+    <desc>Sebuah program bual bicara santai yang akan menampilkan atlet-atlet negara untuk mengupas kisah dan cabaran yang dihadapi sepanjang kerjaya mereka.Pengacara: Aziz Kota &amp; Siti Sapinah Hussein Tetamu: Zaidatul Husniah Zulkifli (Atlet olahraga)</desc>
+  </programme>
+  <programme channel="MYTV111" start="20230906150000 +0000" stop="20230906153000 +0000">
+    <title>Retro : Aksi</title>
+    <desc>Saksikan Perlumbaan Motocross ' Terengganu International Motocross Challenge' dengan penglibatan 14 buah negara dan penyertaan hampir 100 orang pelumba, turut digelar perlumbaan mnotocross terulung di Asia.Lokasi litar Gong Badak, menjadi saksi acara ini.</desc>
+  </programme>
+  <programme channel="MYTV111" start="20230906153000 +0000" stop="20230906163000 +0000">
+    <title>Planet Sukan 2023</title>
+    <desc>Saksikan Planet Sukan 2023, program bual bicara mengenai perkembangan sukan negara bersama Jeed Zulkefli dan Tengku Amril Tengku Ariffin.Ikuti topik 'Liga M - Evolusi atau Sekadar Ilusi?' bersama tetamu Dato Ab Ghani Hssan (Presiden Liga Bola Sepak Malaysia), Ooi Kin Fai (Editor Goal.com Malaysia), Dr. Johan Kamal Hamidon (CEO Selangor FC) dan Bojan Hodak (Ketua Jurulatih KL City FC).</desc>
+  </programme>
+  <programme channel="MYTV111" start="20230906163000 +0000" stop="20230906173000 +0000">
+    <title>Sukan Lejen</title>
+    <desc>Program yang mengimbas kembali detik-detik kegemilangan atlet dalam dunia sukan.Imbasan perlawanan Bola Sepak Kelayakan Olimpik 2000 antara pasukan Filipina menentang pasukan Malaysia.</desc>
+  </programme>
+  <programme channel="MYTV111" start="20230906173000 +0000" stop="20230906180000 +0000">
+    <title>Retro</title>
+    <desc>Saksikan paparan menarik sukan rakyat dan sukan ekstrem.Tetamu episod kali ini bersama Anuar Manan Atlet berbasikal Lebuhraya negara.</desc>
+  </programme>
+  <programme channel="MYTV111" start="20230906180000 +0000" stop="20230906183000 +0000">
+    <title>Pencak Pusaka</title>
+    <desc>Sebuah program realiti televisyen bagi mencari peserta terbaik yang mempunyai bakat dan kemahiran dalam pencak seni persilatan.Bersama pengacara, Qadri Nurhalim memaparkan perjalanan peserta dalam setiap episod bagi merangkul  gelaran juara pencak pusaka terulung.</desc>
   </programme>
   <programme channel="MYTV123" start="20230830183000 +0000" stop="20230830190000 +0000">
     <title>Puisi Nusantara</title>
@@ -4799,34 +4699,6 @@
     <title>Navigasi</title>
     <desc>Saksikan kehebatan industri maritim tempatan memperkenalkan pelbagai teknologi baharu dalam industri berkenaan. Navigasi turut memaparkan komitmen pihak berkuasa menjaga peprairan maritim negara.</desc>
   </programme>
-  <programme channel="MYTV113" start="20230830100000 +0000" stop="20230830110000 +0000">
-    <title>Janji Diana</title>
-    <desc>Diana merupakan seorang gadis yang sedang meningkat dewasa dan sedang memberontak dengan keadaan dan situasi dimana dia sering menyalahkan bapanya atas kematian ibu yang sangat dicintainya. Lakonan Aaron Aziz, Sheera Iskandar, DiDiana seorang gadis kota yang terjebak dengan pelbagai masalah kerana keadaan dirinya yang memberontak dengan keadaan di mana dia sering menyalahkan ayahnya atas kematian ibunya dan memusuhi ibu tirinya,Anita. Dia juga mempunyai masalah mempercayai lelaki sehinggalah dia bertemu dengan Haikal seorang jejaka yang tidak percaya pada perempuan setelah mendapati bahawa tunangnya sendiri telah berlaku curang terhadapnya, dan mereka berdua mula bercinta, datang pula Sabrina,bekas tunang Haikal.</desc>
-  </programme>
-  <programme channel="MYTV113" start="20230830110000 +0000" stop="20230830120000 +0000">
-    <title>Opah</title>
-    <desc>Mengisahkan kehidupan Opah bersama anak, menantu dan cucu dalam mengharungi kehidupan bersama masyarakat.Tajuk: Krisis Pelakon: Zaiton Hussain, Khatijah Abu Hassan, Razali Buyong, Mohamad Abdullah, Norlia Ghani, Abu Bakar Kasim, Yasmin Yusoff, Hashimah Hashim, Asdayanti Daut..</desc>
-  </programme>
-  <programme channel="MYTV113" start="20230830120000 +0000" stop="20230830130000 +0000">
-    <title>Merdekarama 1993</title>
-    <desc>Sebuah rancangan hiburan khas sempena kemerdekaan yang sarat dengan lagu-lagu patriotik.Artis : Azizul Khamis , Dilla, Tajul, Nassir Wahab, Zariha Yusuf, Aypol, Hafiz , Hasnol, Annuar dan Johanna</desc>
-  </programme>
-  <programme channel="MYTV113" start="20230830130000 +0000" stop="20230830150000 +0000">
-    <title>Khas Merdeka - Suatu Persinggahan</title>
-    <desc>Sebuah drama yang memaparkan kisah hubungan kekeluargaan ,keagamaan dan kemerdekaan.</desc>
-  </programme>
-  <programme channel="MYTV113" start="20230830150000 +0000" stop="20230830160000 +0000">
-    <title>Nasinya Tumpah 1986</title>
-    <desc>Sebuah drama sedih yang sarat dengan konflik kekeluargaan dan masyarakat. Lakonan Norlia Ramli, Razali Buyong, Marlia Musa, N.D Lala dan ramai lagi.</desc>
-  </programme>
-  <programme channel="MYTV113" start="20230830160000 +0000" stop="20230830170000 +0000">
-    <title>Menyusur Adat</title>
-    <desc>Dokumentari yang menyingkap pelbagai kisah sejarah dan adat bangsa.</desc>
-  </programme>
-  <programme channel="MYTV113" start="20230830170000 +0000" stop="20230830180000 +0000">
-    <title>Istimewa Bersama</title>
-    <desc>Saksikan persembahan istimewa dengan lagu-lagu merdu yang mengimbau kenangan  bersama artis-artis tanah air.Saksikan persembahan daripada Liza Hanim.</desc>
-  </programme>
   <programme channel="MYTV113" start="20230830180000 +0000" stop="20230830190000 +0000">
     <title>SIARAN TAMAT</title>
     <desc>Saluran Percubaan</desc>
@@ -5219,18 +5091,6 @@
     <title>SIARAN TAMAT</title>
     <desc>Saluran Percubaan</desc>
   </programme>
-  <programme channel="MYTV701" start="20230830090000 +0000" stop="20230830120000 +0000">
-    <title>Nasional 5-8</title>
-    <desc>Lagu-lagu retro yang menggamit kenangan para pendengar sentiasa di hati. Nantikan juga perkongsian rancangan agama menerusi slot Adhwa dan Raudhah.Program yang menyiarkan lagu-lagu retro, 80-an dan 90-an sambil berinteraksi bersama DJ mengenai isu semasa, cuaca dan tajuk akhbar.</desc>
-  </programme>
-  <programme channel="MYTV701" start="20230830120000 +0000" stop="20230830155959 +0000">
-    <title>Nasional Malam</title>
-    <desc>Lagu-lagu hits popular hingga tahun 2021 dalam slot Pilihan Pendengar sentiasa di hati. Ikuti juga perkongsian info terkini dan perkembangan artis tanah air menerusi Kaunter Artis.</desc>
-  </programme>
-  <programme channel="MYTV701" start="20230830160000 +0000" stop="20230830190000 +0000">
-    <title>Nasional 12-6</title>
-    <desc>Sembang malam bersama Geng Burung Hantu dengan topik-topik yang menarik di samping Pilihan Bersama Pendengar lagu-lagu tahun 90an hingga tahun 2000. Ikuti juga Topik Sembang Malam dalam segmen Misteri (Seram/Aneh).Menyiarkan lagu-lagu hit terkini di samping segmen buka talian, SMS, facebook, twitter untuk ruangan pendapat, permintaan dan ucapan. Disasarkan kepada remaja, belia dan individu yang masih berjaga.</desc>
-  </programme>
   <programme channel="MYTV701" start="20230830220000 +0000" stop="20230831020000 +0000">
     <title>Nasional Pagi</title>
     <desc>Lagu-lagu terkini dan popular untuk menceriakan pagi pendengar, pelbagai perkongsian menarik berita dan info terkini dalam danluar negara, motivasi agama, motivasi pagi, info sihat, info trafik, tahukah anda, menarik hari ini,Program bual bicara yang membincangkan mengenai isu semasa berkaitan agensi jabatan kerajaan dan kempen kerajaan. Diselitkan lagu dan interaksi dengan pendengar melalui telefon, sms, twitter dan facebook.</desc>
@@ -5355,21 +5215,29 @@
     <title>Nasional Malam</title>
     <desc>Lagu-lagu hits popular hingga tahun 2021 dalam slot Pilihan Pendengar sentiasa di hati.Pilihan Bersama Menyiarkan lagu-lagu hit terkini di samping segmen buka talian, sms, facebook, twitter untuk ruangan pendapat, permintaan dan ucapan. Dimuatkan juga dengan laporan Sukan Nasional pada jam 10.05 malam.</desc>
   </programme>
-  <programme channel="MYTV702" start="20230830090000 +0000" stop="20230830110000 +0000">
-    <title>Evening Drive</title>
-    <desc>Dengarkan maklumat info trafik terkini, berita dunia dan perkongsian pelbagai isu-isu semasa di samping himpunan lagu-lagu terkini.</desc>
+  <programme channel="MYTV701" start="20230905160000 +0000" stop="20230905190000 +0000">
+    <title>Nasional 12-6</title>
+    <desc>Sembang malam bersama Geng Burung Hantu dengan topik-topik yang menarik di samping Pilihan Bersama Pendengar lagu-lagu tahun 90an hingga tahun 2000. Ikuti juga Topik Sembang Malam dalam segmen Luahan Hati.Menyiarkan lagu-lagu hit terkini di samping segmen buka talian, SMS, facebook, twitter untuk ruangan pendapat, permintaan dan ucapan. Disasarkan kepada remaja, belia dan individu yang masih berjaga.</desc>
   </programme>
-  <programme channel="MYTV702" start="20230830110000 +0000" stop="20230830130000 +0000">
-    <title>Evening Buzz</title>
-    <desc>Himpunan lagu-lagu terkini di samping pelbagai info menarik dan terkini.Himpunan lagu-lagu terkini di samping pelbagai info menarik dan terkini.</desc>
+  <programme channel="MYTV701" start="20230905220000 +0000" stop="20230906020000 +0000">
+    <title>Nasional Pagi</title>
+    <desc>Lagu-lagu terkini dan popular untuk menceriakan pagi pendengar, pelbagai perkongsian menarik berita dan info terkini dalam danluar negara, motivasi agama, motivasi pagi, info sihat, info trafik, tahukah anda, menarik hari ini,Program bual bicara yang membincangkan mengenai isu semasa berkaitan agensi jabatan kerajaan dan kempen kerajaan. Diselitkan lagu dan interaksi dengan pendengar melalui telefon, sms, twitter dan facebook.</desc>
   </programme>
-  <programme channel="MYTV702" start="20230830130000 +0000" stop="20230830160000 +0000">
-    <title>After Hours</title>
-    <desc>Pilihan muzik tempatan era 90-an.Pilihan muzik tempatan era 90-an.</desc>
+  <programme channel="MYTV701" start="20230906020000 +0000" stop="20230906060000 +0000">
+    <title>Nasional 10-2</title>
+    <desc>Lagu-lagu retro yang menggamit kenangan para pendengar sentiasa di hati. Ikuti juga segmen bual bicara dalam Slot Alfa dan Spektrum Khas.Segmen yang menampilkan laporan secara terus daripada wartawan di negeri-negeri seluruh negara yang membuat liputan mengenai isu-isu semasa. Drama pendek Bukit Putra turut disiarkan pada jam 10.15 pagi.</desc>
   </programme>
-  <programme channel="MYTV702" start="20230830160000 +0000" stop="20230830220000 +0000">
-    <title>Sound Journey</title>
-    <desc>Nikmati rangkaian lagu-lagu era 2000 hingga kini.Nikmati rangkaian lagu-lagu era 2000 hingga kini.</desc>
+  <programme channel="MYTV701" start="20230906060000 +0000" stop="20230906090000 +0000">
+    <title>Nasional Petang</title>
+    <desc>Lagu-lagu terkini dan popular tahun 2000 hingga tahun 2021 untuk pendengar sentiasa di hati. Pelbagai perkongsian menarik dan info terkini diberikan kepada para pendengar.Menampilkan lagu-lagu hit terkini sambil berinteraksi bersama DJ mengenai isu semasa, cuaca dan tajuk akhbar</desc>
+  </programme>
+  <programme channel="MYTV701" start="20230906090000 +0000" stop="20230906120000 +0000">
+    <title>Nasional 5-8</title>
+    <desc>Lagu-lagu retro yang menggamit kenangan para pendengar sentiasa di hati. Nantikan juga perkongsian rancangan agama menerusi slot Adhwa dan Raudhah.Program yang menyiarkan lagu-lagu retro, 80-an dan 90-an sambil berinteraksi bersama DJ mengenai isu semasa, cuaca dan tajuk akhbar.</desc>
+  </programme>
+  <programme channel="MYTV701" start="20230906120000 +0000" stop="20230906155959 +0000">
+    <title>Nasional Malam</title>
+    <desc>Lagu-lagu hits popular hingga tahun 2021 dalam slot Pilihan Pendengar sentiasa di hati. Ikuti juga perkongsian info terkini dan perkembangan artis tanah air menerusi Kaunter Artis.</desc>
   </programme>
   <programme channel="MYTV702" start="20230830220000 +0000" stop="20230831020000 +0000">
     <title>Morning Show</title>
@@ -5535,17 +5403,33 @@
     <title>After Hours</title>
     <desc>Pilihan muzik tempatan era 90-an.Pilihan muzik tempatan era 90-an.</desc>
   </programme>
-  <programme channel="MYTV703" start="20230830090000 +0000" stop="20230830120000 +0000">
-    <title>Anandha Thenkatru (Bayu Gembira)</title>
-    <desc>Pilihan seleksi lagu oleh pendengar,info trafik, seleksi lagu-lagu 80-an,90-an bagi mengimbau kembali kenangan lalu.Pilihan seleksi lagu oleh pendengar,info trafik, seleksi lagu-lagu 80-an,90-an bagi mengimbau kembali kenangan lalu.</desc>
+  <programme channel="MYTV702" start="20230905160000 +0000" stop="20230905220000 +0000">
+    <title>Sound Journey</title>
+    <desc>Nikmati rangkaian lagu-lagu era 2000 hingga kini.Nikmati rangkaian lagu-lagu era 2000 hingga kini.</desc>
   </programme>
-  <programme channel="MYTV703" start="20230830120000 +0000" stop="20230830160000 +0000">
-    <title>Natchitra Megam (Angkasa Berbintang)</title>
-    <desc>Info ringkas, rancangan agama Islam, info sukan, lagu-lagu baharu &amp; &#x2018;Recurrent&#x2019;, lagu-lagu klasik tamil berasakan konsep harian.Info ringkas, rancangan agama Islam, info sukan, lagu-lagu baharu &amp; &#x2018;Recurrent&#x2019;, lagu-lagu klasik tamil berasakan konsep harian.</desc>
+  <programme channel="MYTV702" start="20230905220000 +0000" stop="20230906020000 +0000">
+    <title>Morning Show</title>
+    <desc>Ikuti segmen Refeleksi, berita-berita terkini, Info Trafik, Info Sukan dan perkongsian pelbagai topik di samping pilihan lagu yang pelbagai.</desc>
   </programme>
-  <programme channel="MYTV703" start="20230830160000 +0000" stop="20230830220000 +0000">
-    <title>Segmen Automasi</title>
-    <desc>Lagu-lagu popular dari semua era, lagu-lagu tempatan, Hindi dan lagu-lagu moral.Lagu-lagu popular dari semua era, lagu-lagu tempatan, Hindi dan lagu-lagu moral.</desc>
+  <programme channel="MYTV702" start="20230906020000 +0000" stop="20230906060000 +0000">
+    <title>Traxx Momentum</title>
+    <desc>Menyiarkan lagu-lagu di samping isu-isu terkini, ramalan cuaca, serta temu bual bersama tetamu undangan mengenai isu kesihatan, keselamatan, kewangan, kepenggunaan, kekeluargaan dan lain-lain lagi.</desc>
+  </programme>
+  <programme channel="MYTV702" start="20230906060000 +0000" stop="20230906090000 +0000">
+    <title>Chill@Traxx</title>
+    <desc>Memutarkan lagu-lagu yang santai dan menenangkan di samping perkongsian  program untuk golongan remaja.</desc>
+  </programme>
+  <programme channel="MYTV702" start="20230906090000 +0000" stop="20230906110000 +0000">
+    <title>Evening Drive</title>
+    <desc>Dengarkan maklumat info trafik terkini, berita dunia dan perkongsian pelbagai isu-isu semasa di samping himpunan lagu-lagu terkini.</desc>
+  </programme>
+  <programme channel="MYTV702" start="20230906110000 +0000" stop="20230906130000 +0000">
+    <title>Evening Buzz</title>
+    <desc>Himpunan lagu-lagu terkini di samping pelbagai info menarik dan terkini.Himpunan lagu-lagu terkini di samping pelbagai info menarik dan terkini.</desc>
+  </programme>
+  <programme channel="MYTV702" start="20230906130000 +0000" stop="20230906160000 +0000">
+    <title>After Hours</title>
+    <desc>Pilihan muzik tempatan era 90-an.Pilihan muzik tempatan era 90-an.</desc>
   </programme>
   <programme channel="MYTV703" start="20230830220000 +0000" stop="20230831020000 +0000">
     <title>Segmen Pagi</title>
@@ -5687,21 +5571,29 @@
     <title>Natchitra Megam (Angkasa Berbintang)</title>
     <desc>Info ringkas, rancangan agama Islam, info sukan, lagu-lagu baharu &amp; &#x2018;Recurrent&#x2019;, lagu-lagu klasik tamil berasakan konsep harian.Info ringkas, rancangan agama Islam, info sukan, lagu-lagu baharu &amp; &#x2018;Recurrent&#x2019;, lagu-lagu klasik tamil berasakan konsep harian.</desc>
   </programme>
-  <programme channel="MYTV704" start="20230830080000 +0000" stop="20230830120000 +0000">
-    <title>Ai Sembang</title>
-    <desc>Bual Bicara bersama DJ dengan bekas DJ Astro Shiyu (setiap Rabu) untuk berkongsi pengalaman dalam topik semasa /isu hangat. Tempat-tempat pelancongan  Malaysia turut diperkenalkan dalam slot ini.Bual Bicara bersama DJ dengan bekas DJ Astro Shiyu (setiap Rabu) untuk berkongsi pengalaman dalam topik semasa /isu hangat. Tempat-tempat pelancongan  Malaysia turut diperkenalkan dalam slot ini.</desc>
+  <programme channel="MYTV703" start="20230905160000 +0000" stop="20230905220000 +0000">
+    <title>Segmen Automasi</title>
+    <desc>Lagu-lagu popular dari semua era, lagu-lagu tempatan, Hindi dan lagu-lagu moral.Lagu-lagu popular dari semua era, lagu-lagu tempatan, Hindi dan lagu-lagu moral.</desc>
   </programme>
-  <programme channel="MYTV704" start="20230830120000 +0000" stop="20230830155959 +0000">
-    <title>Ai Blog</title>
-    <desc>Menyiarkan segmen berkaitan lagu dan muzik(klasik, jazz, asli)  dan industri perfileman, perbincangan dengan blogger, perbualan pendengar melalui telefon dan Facebook serta kata mutiara bagi kaum remaja.Menyiarkan segmen berkaitan lagu dan muzik(klasik, jazz, asli)  dan industri perfileman, perbincangan dengan blogger, perbualan pendengar melalui telefon dan Facebook serta kata mutiara bagi kaum remaja.</desc>
+  <programme channel="MYTV703" start="20230905220000 +0000" stop="20230906020000 +0000">
+    <title>Segmen Pagi</title>
+    <desc>Pelbagai info kerajaan &amp; isu semasa dikongsikan, info trafik, tajuk-tajuk berita utama akhbar, games, pelbagai input berkaitan kemasyarakatan bersama tetamu-tetamu jemputan,info sukan.Pelbagai info kerajaan &amp; isu semasa dikongsikan, info trafik, tajuk-tajuk berita utama akhbar, games, pelbagai input berkaitan kemasyarakatan bersama tetamu-tetamu jemputan,info sukan.</desc>
   </programme>
-  <programme channel="MYTV704" start="20230830160000 +0000" stop="20230830180000 +0000">
-    <title>Ai Muzik</title>
-    <desc>Segmen ini menyediakan pelbagai muzik dan lagu  secara automasi.Rancangan ulangan seperti Ai Sembang, Ai Ceria , Ai Blog &amp; melodi lama akan turut disiarkan.Segmen ini menyediakan pelbagai muzik dan lagu  secara automasi.Rancangan ulangan seperti Ai Sembang, Ai Ceria , Ai Blog &amp; melodi lama akan turut disiarkan.</desc>
+  <programme channel="MYTV703" start="20230906020000 +0000" stop="20230906060000 +0000">
+    <title>Ullasam Utchagam</title>
+    <desc>Pelbagai perkongsian info Bollywood dan Mollywood, rancangan berkaitan belia, info trafik, info ringkas dan indusri tempatan.Pelbagai perkongsian info Bollywood dan Mollywood, rancangan berkaitan belia, info trafik, info ringkas dan indusri tempatan.</desc>
   </programme>
-  <programme channel="MYTV704" start="20230830180000 +0000" stop="20230830220000 +0000">
-    <title>Ai Aksi</title>
-    <desc>Menyalurkan informasi melalui berita terkini dan mengulas tajuk utama semua surat khabar Cina, melayu dan Inggeris. Menyiarkan kapsul Belajar Bahasa Mandarin, ramalan cuaca dan laporan saham.Menyalurkan informasi melalui berita terkini dan mengulas tajuk utama semua surat khabar Cina, melayu dan Inggeris. Menyiarkan kapsul Belajar Bahasa Mandarin, ramalan cuaca dan laporan saham.</desc>
+  <programme channel="MYTV703" start="20230906060000 +0000" stop="20230906090000 +0000">
+    <title>Ennaggal Vannaggal</title>
+    <desc>Pelbagai info dikongsikan, dendangan lagu-lagu retro, tempatan dan Telugu.Pelbagai info dikongsikan, dendangan lagu-lagu retro, tempatan dan Telugu.</desc>
+  </programme>
+  <programme channel="MYTV703" start="20230906090000 +0000" stop="20230906120000 +0000">
+    <title>Anandha Thenkatru (Bayu Gembira)</title>
+    <desc>Pilihan seleksi lagu oleh pendengar,info trafik, seleksi lagu-lagu 80-an,90-an bagi mengimbau kembali kenangan lalu.Pilihan seleksi lagu oleh pendengar,info trafik, seleksi lagu-lagu 80-an,90-an bagi mengimbau kembali kenangan lalu.</desc>
+  </programme>
+  <programme channel="MYTV703" start="20230906120000 +0000" stop="20230906160000 +0000">
+    <title>Natchitra Megam (Angkasa Berbintang)</title>
+    <desc>Info ringkas, rancangan agama Islam, info sukan, lagu-lagu baharu &amp; &#x2018;Recurrent&#x2019;, lagu-lagu klasik tamil berasakan konsep harian.Info ringkas, rancangan agama Islam, info sukan, lagu-lagu baharu &amp; &#x2018;Recurrent&#x2019;, lagu-lagu klasik tamil berasakan konsep harian.</desc>
   </programme>
   <programme channel="MYTV704" start="20230830220000 +0000" stop="20230831020000 +0000">
     <title>Ai Aksi</title>
@@ -5867,17 +5759,33 @@
     <title>Ai Muzik</title>
     <desc>Segmen ini menyediakan pelbagai muzik dan lagu  secara automasi.Rancangan ulangan seperti Ai Sembang, Ai Ceria , Ai Blog &amp; melodi lama akan turut disiarkan.Segmen ini menyediakan pelbagai muzik dan lagu  secara automasi.Rancangan ulangan seperti Ai Sembang, Ai Ceria , Ai Blog &amp; melodi lama akan turut disiarkan.</desc>
   </programme>
-  <programme channel="MYTV705" start="20230830090000 +0000" stop="20230830120000 +0000">
-    <title>Mutiara Klasik</title>
-    <desc>Teruskan kesetiaan mendengar lagu-lagu hits era 80-an, 90-an dan 2000 yang menggamit kenangan.</desc>
+  <programme channel="MYTV704" start="20230905180000 +0000" stop="20230905220000 +0000">
+    <title>Ai Aksi</title>
+    <desc>Menyalurkan informasi melalui berita terkini dan mengulas tajuk utama semua surat khabar Cina, melayu dan Inggeris. Menyiarkan kapsul Belajar Bahasa Mandarin, ramalan cuaca dan laporan saham.Menyalurkan informasi melalui berita terkini dan mengulas tajuk utama semua surat khabar Cina, melayu dan Inggeris. Menyiarkan kapsul Belajar Bahasa Mandarin, ramalan cuaca dan laporan saham.</desc>
   </programme>
-  <programme channel="MYTV705" start="20230830120000 +0000" stop="20230830160000 +0000">
-    <title>Ritma Klasik</title>
-    <desc>Tidak cukup mendengar lagu-lagu kenangan filem Melayu klasik dan rakaman piring hitam,  segalanya ada di segmen Ritma Klasik.  Penggemar lagu-lagu era 70-an hingga 2000 masih boleh menikmati hiburan lagu-lagu era berkenaan dalam</desc>
+  <programme channel="MYTV704" start="20230905220000 +0000" stop="20230906020000 +0000">
+    <title>Ai Aksi</title>
+    <desc>Perbincangan isu semasa bersama DJ dengan penganalisa politik dan berinteraksi dengan  pendengar melalui call-in, fB , wechat dan whatsapp.Perbincangan isu semasa bersama DJ dengan penganalisa politik dan berinteraksi dengan  pendengar melalui call-in, fB , wechat dan whatsapp.</desc>
   </programme>
-  <programme channel="MYTV705" start="20230830160000 +0000" stop="20230830220000 +0000">
-    <title>Harmoni Klasik</title>
-    <desc>Lagu-lagu Pop dan Irama Melayu dari tahun 70-an hingga 90-an termasuk Irama Malaysia.</desc>
+  <programme channel="MYTV704" start="20230906020000 +0000" stop="20230906050000 +0000">
+    <title>Ai Ceria</title>
+    <desc>Menumpukan kepada rancangan dan temubual tentang kesihatan, undang-undang, ekonomi , masakan , kekeluargaan, kecantikan, kaunseling, kanak-kanak dsb.Menyediakan dedikasi untuk pendengar melaui wechat dan FB.Menumpukan kepada rancangan dan temubual tentang kesihatan, undang-undang, ekonomi , masakan , kekeluargaan, kecantikan, kaunseling, kanak-kanak dsb.Menyediakan dedikasi untuk pendengar melaui wechat dan FB.</desc>
+  </programme>
+  <programme channel="MYTV704" start="20230906050000 +0000" stop="20230906080000 +0000">
+    <title>Ai Relaks</title>
+    <desc>Menyiarkan lagu-lagu 90an  bagi pendengar berusia 30 tahun ke atas dan tip kehidupan, drama , filem dan video.Menyiarkan lagu-lagu 90an  bagi pendengar berusia 30 tahun ke atas dan tip kehidupan, drama , filem dan video.</desc>
+  </programme>
+  <programme channel="MYTV704" start="20230906080000 +0000" stop="20230906120000 +0000">
+    <title>Ai Sembang</title>
+    <desc>Bual Bicara bersama DJ dengan bekas DJ Astro Shiyu (setiap Rabu) untuk berkongsi pengalaman dalam topik semasa /isu hangat. Tempat-tempat pelancongan  Malaysia turut diperkenalkan dalam slot ini.Bual Bicara bersama DJ dengan bekas DJ Astro Shiyu (setiap Rabu) untuk berkongsi pengalaman dalam topik semasa /isu hangat. Tempat-tempat pelancongan  Malaysia turut diperkenalkan dalam slot ini.</desc>
+  </programme>
+  <programme channel="MYTV704" start="20230906120000 +0000" stop="20230906155959 +0000">
+    <title>Ai Blog</title>
+    <desc>Menyiarkan segmen berkaitan lagu dan muzik(klasik, jazz, asli)  dan industri perfileman, perbincangan dengan blogger, perbualan pendengar melalui telefon dan Facebook serta kata mutiara bagi kaum remaja.Menyiarkan segmen berkaitan lagu dan muzik(klasik, jazz, asli)  dan industri perfileman, perbincangan dengan blogger, perbualan pendengar melalui telefon dan Facebook serta kata mutiara bagi kaum remaja.</desc>
+  </programme>
+  <programme channel="MYTV704" start="20230906160000 +0000" stop="20230906180000 +0000">
+    <title>Ai Muzik</title>
+    <desc>Segmen ini menyediakan pelbagai muzik dan lagu  secara automasi.Rancangan ulangan seperti Ai Sembang, Ai Ceria , Ai Blog &amp; melodi lama akan turut disiarkan.Segmen ini menyediakan pelbagai muzik dan lagu  secara automasi.Rancangan ulangan seperti Ai Sembang, Ai Ceria , Ai Blog &amp; melodi lama akan turut disiarkan.</desc>
   </programme>
   <programme channel="MYTV705" start="20230830220000 +0000" stop="20230831020000 +0000">
     <title>Sajian Klasik</title>
@@ -6019,29 +5927,29 @@
     <title>Ritma Klasik</title>
     <desc>Tidak cukup mendengar lagu-lagu kenangan filem Melayu klasik dan rakaman piring hitam,  segalanya ada di segmen Ritma Klasik.  Penggemar lagu-lagu era 70-an hingga 2000 masih boleh menikmati hiburan lagu-lagu era berkenaan dalam</desc>
   </programme>
-  <programme channel="MYTV706" start="20230830070000 +0000" stop="20230830110000 +0000">
-    <title>Sambil Kakdik Sambil Berpihoi</title>
-    <desc>Memainkan seleksi lagu-lagu lagu moden Orang Asli, Info Trafik dan Info Cuaca.</desc>
+  <programme channel="MYTV705" start="20230905160000 +0000" stop="20230905220000 +0000">
+    <title>Harmoni Klasik</title>
+    <desc>Lagu-lagu Pop dan Irama Melayu dari tahun 70-an hingga 90-an termasuk Irama Malaysia.</desc>
   </programme>
-  <programme channel="MYTV706" start="20230830110000 +0000" stop="20230830150000 +0000">
-    <title>Pilihan ASYIK</title>
-    <desc>Rangkuman berita menarik dan segmen interaktif, ucapan serta lagu pilihan pendengar tempatan dan antarabangsa melalui panggilan telefon,  WhatsApp dan Facebook.</desc>
+  <programme channel="MYTV705" start="20230905220000 +0000" stop="20230906020000 +0000">
+    <title>Sajian Klasik</title>
+    <desc>Lagu-lagu Pop dan Irama Melayu dari tahun 70-an hingga 90-an termasuk Irama Malaysia.</desc>
   </programme>
-  <programme channel="MYTV706" start="20230830150000 +0000" stop="20230830160000 +0000">
-    <title>Salam Inspirasi</title>
-    <desc>Segmen yang menumpukan kepada semua aspek kehidupan mengikut nilai-nilai Islam</desc>
+  <programme channel="MYTV705" start="20230906020000 +0000" stop="20230906060000 +0000">
+    <title>Melodi Klasik</title>
+    <desc>Lagu Pop dan rentak  Melayu  tradisional seperti Joget, Inang, Masri, Zapin khususnya dari tahun 70-an hingga 90-an.</desc>
   </programme>
-  <programme channel="MYTV706" start="20230830160000 +0000" stop="20230830170000 +0000">
-    <title>Salam Inspirasi</title>
-    <desc>Segmen yang menumpukan kepada semua aspek kehidupan mengikut nilai-nilai Islam</desc>
+  <programme channel="MYTV705" start="20230906060000 +0000" stop="20230906090000 +0000">
+    <title>Mestika Klasik</title>
+    <desc>Lagu-lagu Pop dan Pop Yeh Yeh dari awal 60-an hingga 80-an. Tumpuan kepada muzik Kugiran (Kumpulan Gitar Rancak).</desc>
   </programme>
-  <programme channel="MYTV706" start="20230830170000 +0000" stop="20230830190000 +0000">
-    <title>Aura Islamik</title>
-    <desc>Menyiarkan lagu-lagu nasyid tempatan dan antarabangsa serta pengisian kerohanian</desc>
+  <programme channel="MYTV705" start="20230906090000 +0000" stop="20230906120000 +0000">
+    <title>Mutiara Klasik</title>
+    <desc>Teruskan kesetiaan mendengar lagu-lagu hits era 80-an, 90-an dan 2000 yang menggamit kenangan.</desc>
   </programme>
-  <programme channel="MYTV706" start="20230830190000 +0000" stop="20230830210000 +0000">
-    <title>Salam Fajar</title>
-    <desc>Menyalurkan informasi ringkas dan padat dengan selitan kapsul-kapsul agama</desc>
+  <programme channel="MYTV705" start="20230906120000 +0000" stop="20230906160000 +0000">
+    <title>Ritma Klasik</title>
+    <desc>Tidak cukup mendengar lagu-lagu kenangan filem Melayu klasik dan rakaman piring hitam,  segalanya ada di segmen Ritma Klasik.  Penggemar lagu-lagu era 70-an hingga 2000 masih boleh menikmati hiburan lagu-lagu era berkenaan dalam</desc>
   </programme>
   <programme channel="MYTV706" start="20230830210000 +0000" stop="20230831000000 +0000">
     <title>Sobahul Khair</title>
@@ -6251,37 +6159,41 @@
     <title>Salam Inspirasi</title>
     <desc>Segmen yang menumpukan kepada semua aspek kehidupan mengikut nilai-nilai Islam</desc>
   </programme>
-  <programme channel="MYTV711" start="20230830103000 +0000" stop="20230830110000 +0000">
-    <title>Ulang Siar Malaysia Petang Ini</title>
-    <desc>Ulang Siar Program terbitan BERNAMA TV Platform dengan kemaskini perkembangan semasa dalam negara, dirangkum setiap petang.</desc>
+  <programme channel="MYTV706" start="20230905170000 +0000" stop="20230905190000 +0000">
+    <title>Aura Islamik</title>
+    <desc>Menyiarkan lagu-lagu nasyid tempatan dan antarabangsa serta pengisian kerohanian</desc>
   </programme>
-  <programme channel="MYTV711" start="20230830110000 +0000" stop="20230830110500 +0000">
-    <title>Ringkas Waktu Ini</title>
-    <desc>Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan.</desc>
+  <programme channel="MYTV706" start="20230905190000 +0000" stop="20230905210000 +0000">
+    <title>Salam Fajar</title>
+    <desc>Menyalurkan informasi ringkas dan padat dengan selitan kapsul-kapsul agama</desc>
   </programme>
-  <programme channel="MYTV711" start="20230830111000 +0000" stop="20230830113000 +0000">
-    <title>Laman Iman</title>
-    <desc>Tazkirah yang memberi pedoman/nasihat mengenai sentuhan cinta dan kasih sayang dariNya dalam melahirkan jiwa yang sentiasa tenang, syukur dan reda akan ketentuanNya.</desc>
+  <programme channel="MYTV706" start="20230905210000 +0000" stop="20230906000000 +0000">
+    <title>Sobahul Khair</title>
+    <desc>Memberi tumpuan kepada isu semasa Jakim berkonsepkan dakwah secara santai dan interaktif</desc>
   </programme>
-  <programme channel="MYTV711" start="20230830113000 +0000" stop="20230830120000 +0000">
-    <title>Laman Iman</title>
-    <desc>Tazkirah yang memberi pedoman/nasihat mengenai sentuhan cinta dan kasih sayang dariNya dalam melahirkan jiwa yang sentiasa tenang, syukur dan reda akan ketentuanNya.</desc>
+  <programme channel="MYTV706" start="20230906000000 +0000" stop="20230906030000 +0000">
+    <title>Gah Ju ASYIK</title>
+    <desc>Pelbagai info, Tazkirah (JAKIM), tajuk utama akhbar, Info Trafik, Info Cuaca, Info Solat, laporan dari lokasi, motivasi pagi dan Bahasa Jiwa Bangsa. Turut memainkan pelbagai lagu-lagu hits terkini tempatan dan antarabangsa.</desc>
   </programme>
-  <programme channel="MYTV711" start="20230830120000 +0000" stop="20230830121500 +0000">
-    <title>Utama Puncak Jam ini</title>
-    <desc>Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan</desc>
+  <programme channel="MYTV706" start="20230906030000 +0000" stop="20230906070000 +0000">
+    <title>My Hik ASYIK</title>
+    <desc>Info/Program semasa iaitu bersama tetamu jemputan dari agensi kerajaan dan NGO</desc>
   </programme>
-  <programme channel="MYTV711" start="20230830121000 +0000" stop="20230830125500 +0000">
-    <title>Kenangan Lalu</title>
-    <desc>Seleksi Lagu-lagu era 70 - 90 an</desc>
+  <programme channel="MYTV706" start="20230906070000 +0000" stop="20230906110000 +0000">
+    <title>Sambil Kakdik Sambil Berpihoi</title>
+    <desc>Memainkan seleksi lagu-lagu lagu moden Orang Asli, Info Trafik dan Info Cuaca.</desc>
   </programme>
-  <programme channel="MYTV711" start="20230830130000 +0000" stop="20230830160000 +0000">
-    <title>Seleksi Lagu</title>
-    <desc>Seleksi Lagu-Lagu terbaik, Untuk Anda</desc>
+  <programme channel="MYTV706" start="20230906110000 +0000" stop="20230906150000 +0000">
+    <title>Pilihan ASYIK</title>
+    <desc>Rangkuman berita menarik dan segmen interaktif, ucapan serta lagu pilihan pendengar tempatan dan antarabangsa melalui panggilan telefon,  WhatsApp dan Facebook.</desc>
   </programme>
-  <programme channel="MYTV711" start="20230830160000 +0000" stop="20230830220000 +0000">
-    <title>Seleksi Lagu</title>
-    <desc>Seleksi Lagu-Lagu terbaik, Untuk Anda</desc>
+  <programme channel="MYTV706" start="20230906150000 +0000" stop="20230906160000 +0000">
+    <title>Salam Inspirasi</title>
+    <desc>Segmen yang menumpukan kepada semua aspek kehidupan mengikut nilai-nilai Islam</desc>
+  </programme>
+  <programme channel="MYTV706" start="20230906160000 +0000" stop="20230906170000 +0000">
+    <title>Salam Inspirasi</title>
+    <desc>Segmen yang menumpukan kepada semua aspek kehidupan mengikut nilai-nilai Islam</desc>
   </programme>
   <programme channel="MYTV711" start="20230830220000 +0000" stop="20230830220500 +0000">
     <title>Ringkas Waktu Ini</title>
@@ -6959,53 +6871,165 @@
     <title>Seleksi Lagu</title>
     <desc>Seleksi Lagu-Lagu terbaik, Untuk Anda</desc>
   </programme>
-  <programme channel="MYTV102" start="20230830100000 +0000" stop="20230830103000 +0000">
-    <title>Pak Pandir Moden</title>
-    <desc>Animasi kisah Pak Pandir.Pak Pandir adalah seorang lelaki lurus yang mengalami pelbagai masalah akibat sifat lurus bendulnya. Sifat lurusnya dan serba serbi yang komikal membawa kepada penyelesaian masalah-masalah yang biasa berlaku dalam masyarakat kampung.</desc>
+  <programme channel="MYTV711" start="20230905160000 +0000" stop="20230905220000 +0000">
+    <title>Seleksi Lagu</title>
+    <desc>Seleksi Lagu-Lagu terbaik, Untuk Anda</desc>
   </programme>
-  <programme channel="MYTV102" start="20230830103000 +0000" stop="20230830110000 +0000">
-    <title>Budin Oh Budin (S1)</title>
-    <desc>AnimasiMengisahkan tentang seorang budak bandar bersama ibunya yang berhijrah ke kampung dan tinggal bersama datuknya. Setiap hari ada sahaja aktiviti yang dilakukan yang mencuit hati orang ramai terutama kanak-kanak.</desc>
+  <programme channel="MYTV711" start="20230905220000 +0000" stop="20230905220500 +0000">
+    <title>Ringkas Waktu Ini</title>
+    <desc>Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan, selama setengah jam</desc>
   </programme>
-  <programme channel="MYTV102" start="20230830110000 +0000" stop="20230830113000 +0000">
-    <title>BERITA MANDARIN</title>
-    <desc>Memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.Ikuti Berita Mandarin yang memaparkan perkembangan politik, sosial, ekonomi, sukan hiburan dan isu-isu semasa.</desc>
+  <programme channel="MYTV711" start="20230905220500 +0000" stop="20230905230000 +0000">
+    <title>Spektrum Pagi</title>
+    <desc>Segmen Pagi Bersama Raifa Zulkifli &amp; Natasha Aimee</desc>
   </programme>
-  <programme channel="MYTV102" start="20230830113000 +0000" stop="20230830120000 +0000">
-    <title>BERITA TAMIL</title>
-    <desc>Berita berbahasa Tamil yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.Berita berbahasa Tamil yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
+  <programme channel="MYTV711" start="20230905230000 +0000" stop="20230905230500 +0000">
+    <title>Utama Puncak Jam ini</title>
+    <desc>Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan.</desc>
   </programme>
-  <programme channel="MYTV102" start="20230830120000 +0000" stop="20230830130000 +0000">
-    <title>Partners For Justice</title>
-    <desc>Drama bersiri Korea lakonan Jung Jae-young, Jeong Yu-mi, Park Eun-seok, Oh Man-seok dan No Min-woo.Baek Beom, seorang doktor forensik, sukar untuk bergaul tetapi mahir dalam tugasnya. Eun Sol pula ialah seorang pendakwa raya baru yang mempunyai personaliti positif. Mereka berdua bekerjasama untuk menyelesaikan pelbagai jenayah.</desc>
+  <programme channel="MYTV711" start="20230905231000 +0000" stop="20230905234500 +0000">
+    <title>Spektrum Pagi</title>
+    <desc>Perkongsian info terkini  mengenai PRU-15</desc>
   </programme>
-  <programme channel="MYTV102" start="20230830130000 +0000" stop="20230830133000 +0000">
-    <title>Apartmen Putra 59200 (Musim 4)</title>
-    <desc>Sitkom komedi yang sarat dengan kisah-kisah berkaitan pelbagai isu semasa.Harga Naik Lagi? 3 sepupu merungut dengan kenaikan harga barang yang memberi impak terhadap kemampuan mereka berbelanja. Di masa yang sama, kehadiran Subadron dari kampung membuatkan 3 sepupu tidak senang duduk dengan perangainya. Maya memaklumkan kepada tiga sepupu bahawa dia telah hamil.</desc>
+  <programme channel="MYTV711" start="20230905234500 +0000" stop="20230905235500 +0000">
+    <title>Apa Kata Anda</title>
+    <desc>Ruang interaktif pendengar BERNAMA Radio yang dengan ruang kepada pendengar memberi pendapat dan idea berkaitan topik semasa.</desc>
   </programme>
-  <programme channel="MYTV102" start="20230830133000 +0000" stop="20230830140000 +0000">
-    <title>Pop Terbaik</title>
-    <desc>Rancangan menarik terbitan Unit Hiburan RTM.Pada episod kali ini membawakan artis BBNU.</desc>
+  <programme channel="MYTV711" start="20230906000000 +0000" stop="20230906001000 +0000">
+    <title>Utama Puncak Jam ini</title>
+    <desc>Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan.</desc>
   </programme>
-  <programme channel="MYTV102" start="20230830140000 +0000" stop="20230830143000 +0000">
-    <title>Pop Terbaik</title>
-    <desc>Rancangan menarik terbitan Unit Hiburan RTM.Program hiburan terbitan Unit Hiburan TV,RTM.</desc>
+  <programme channel="MYTV711" start="20230906001500 +0000" stop="20230906003000 +0000">
+    <title>Laporan Biro &amp; Koresponden</title>
+    <desc>Laporan terkini wartawan dan koresponden BERNAMA</desc>
   </programme>
-  <programme channel="MYTV102" start="20230830143000 +0000" stop="20230830163000 +0000">
-    <title>LIVE : KONSERT KHAS AMBANG MERDEKA 66</title>
-    <desc>Konsert khas sempena Hari Kebangsaan terbitan Unit Hiburan TV, RTM.Saksikan persembahan istimewa Siwan, Wani Kayrie, Sivakumar, Peter Mad, Dato Dj Dave dan Syamel dalam konsert khas Sambutan Ambang Merdeka 2023 secara langsung dari Dataran Merdeka, Kuala Lumpur.</desc>
+  <programme channel="MYTV711" start="20230906003000 +0000" stop="20230906010000 +0000">
+    <title>Jendela Fikir</title>
+    <desc>Program bual bicara topik-topik terkini lagi bermanfaat yang bersiaran pada waktu pagi yang mengetengahkan isu-isu semasa.</desc>
   </programme>
-  <programme channel="MYTV102" start="20230830163000 +0000" stop="20230830173000 +0000">
-    <title>Hero (S2)</title>
-    <desc>Kisah penyelamat di Malaysia dalam perjuangan menjalankan tugas mereka disamping cabaran dan semangat dedikasi yang mereka perlu hadapi untuk keselamatan orang awam.Unit Penerbangan Khas Bomba telah diminta membuat penerbangan kecemasan untuk penghantaran organ (organ transfer) dari Hospital Pulau Pinang ke Hospital Selayang. Cici dan Unit Perubatan (EMRS) diarahkan membantu dalam operasi tersebut. Sementara itu, Balai Bomba Sentul masih lagi menerima beberapa panggilan palsu.</desc>
+  <programme channel="MYTV711" start="20230906010000 +0000" stop="20230906011500 +0000">
+    <title>Dunia  Ekonomi</title>
+    <desc>Berita ekonomi dan bisnes dalam dan luar negara</desc>
   </programme>
-  <programme channel="MYTV102" start="20230830173000 +0000" stop="20230830180000 +0000">
-    <title>Cinta Macarons</title>
-    <desc>Saksikan drama bersiri menarik ini lakonan Faizal Hussein,Zarina,Tunku Hanis dan Liza Abdullah.Saksikan drama bersiri menarik ini lakonan Faizal Hussein,Zarina,Tunku Hanis dan Liza Abdullah.</desc>
+  <programme channel="MYTV711" start="20230906011500 +0000" stop="20230906020000 +0000">
+    <title>MyCheck</title>
+    <desc>Penyemak fakta berkongsi mengenai isu semasa</desc>
   </programme>
-  <programme channel="MYTV102" start="20230830180000 +0000" stop="20230830183000 +0000">
-    <title>Nenjangal</title>
-    <desc>Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.</desc>
+  <programme channel="MYTV711" start="20230906020000 +0000" stop="20230906020500 +0000">
+    <title>Ringkas Waktu Ini</title>
+    <desc>Berita ringkas dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan.</desc>
+  </programme>
+  <programme channel="MYTV711" start="20230906020500 +0000" stop="20230906030000 +0000">
+    <title>Ulang Siar Ruang Bicara</title>
+    <desc>Ulang Siar rancangan bual bicara  terbitan BERNAMA TV yang mengupas topik semasa tanah air.</desc>
+  </programme>
+  <programme channel="MYTV711" start="20230906030000 +0000" stop="20230906030500 +0000">
+    <title>Ringkas Waktu Ini</title>
+    <desc>Berita ringkas dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan.</desc>
+  </programme>
+  <programme channel="MYTV711" start="20230906030500 +0000" stop="20230906040000 +0000">
+    <title>Santai Tengah Hari</title>
+    <desc>Segmen yang dikendalikan oleh Ziana Nasir &amp; Nazira Noran</desc>
+  </programme>
+  <programme channel="MYTV711" start="20230906040000 +0000" stop="20230906040500 +0000">
+    <title>Ringkas Waktu Ini</title>
+    <desc>Berita ringkas dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan.</desc>
+  </programme>
+  <programme channel="MYTV711" start="20230906041500 +0000" stop="20230906044500 +0000">
+    <title>Santai Tengah Hari</title>
+    <desc>Segmen yang dikendalikan oleh Ziana Nasir &amp; Nazira Noran</desc>
+  </programme>
+  <programme channel="MYTV711" start="20230906044500 +0000" stop="20230906050000 +0000">
+    <title>Santai Tengah Hari</title>
+    <desc>Segmen yang dikendalikan oleh Ziana Nasir &amp; Nazira Noran</desc>
+  </programme>
+  <programme channel="MYTV711" start="20230906050000 +0000" stop="20230906050500 +0000">
+    <title>Ringkas Waktu Ini</title>
+    <desc>Berita ringkas dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan.</desc>
+  </programme>
+  <programme channel="MYTV711" start="20230906051000 +0000" stop="20230906052500 +0000">
+    <title>Santai Tengah Hari</title>
+    <desc>Segmen yang dikendalikan oleh Nazira Noran &amp; Ziana Nasir</desc>
+  </programme>
+  <programme channel="MYTV711" start="20230906053000 +0000" stop="20230906060000 +0000">
+    <title>Ulasan</title>
+    <desc>Ulasan isu / topik terkini, samada  dalam atau luar negara oleh  Penerbit, Wartawan dan Peneraju Bernama Radio</desc>
+  </programme>
+  <programme channel="MYTV711" start="20230906060000 +0000" stop="20230906060500 +0000">
+    <title>Ringkas Waktu Ini</title>
+    <desc>Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan.</desc>
+  </programme>
+  <programme channel="MYTV711" start="20230906060500 +0000" stop="20230906070000 +0000">
+    <title>Santai Tengah Hari</title>
+    <desc>Segmen yang dikendalikan oleh Ziana Nasir &amp; Hanie Hamid</desc>
+  </programme>
+  <programme channel="MYTV711" start="20230906070000 +0000" stop="20230906070500 +0000">
+    <title>Ringkas Waktu Ini</title>
+    <desc>Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan.</desc>
+  </programme>
+  <programme channel="MYTV711" start="20230906071500 +0000" stop="20230906074000 +0000">
+    <title>Cerita Kami@TVET</title>
+    <desc>Program temu bual yang membincangkan isu-isu terkini TVET dan cabaran yang dilalui untuk memastikan kebolehpasaran graduan dapat terus ditingkatkan.</desc>
+  </programme>
+  <programme channel="MYTV711" start="20230906075000 +0000" stop="20230906075500 +0000">
+    <title>Kemaskini Berita</title>
+    <desc>Perkongsian berita-berita menarik sepanjang hari.</desc>
+  </programme>
+  <programme channel="MYTV711" start="20230906080000 +0000" stop="20230906080500 +0000">
+    <title>Ringkas Waktu Ini</title>
+    <desc>Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan</desc>
+  </programme>
+  <programme channel="MYTV711" start="20230906080500 +0000" stop="20230906083000 +0000">
+    <title>Khabar Petang</title>
+    <desc>Segmen yang dikendalikan oleh Shuhadah Armawan &amp; Hanie Hamid.</desc>
+  </programme>
+  <programme channel="MYTV711" start="20230906083000 +0000" stop="20230906092500 +0000">
+    <title>Tular Hari Ini</title>
+    <desc>Perkongsian tentang isu-isu yang tular sepanjang hari.</desc>
+  </programme>
+  <programme channel="MYTV711" start="20230906090000 +0000" stop="20230906090500 +0000">
+    <title>Utama Puncak Jam ini</title>
+    <desc>Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan.</desc>
+  </programme>
+  <programme channel="MYTV711" start="20230906091500 +0000" stop="20230906094000 +0000">
+    <title>Dalam Radar</title>
+    <desc>Program bual bicara langsung yang mengupas isu-isu semasa dan pelan perancangan dalam bentuk perbincangan yang komprehensif. Dalam Radar menampilkan tetamu dalam kalangan profesional, pembuat dasar dan pemikir serta penggiat indu</desc>
+  </programme>
+  <programme channel="MYTV711" start="20230906095000 +0000" stop="20230906095500 +0000">
+    <title>Khabar Petang</title>
+    <desc>Segmen yang dikendalikan oleh Shuhadah Armawan &amp; Hanie Hamid.</desc>
+  </programme>
+  <programme channel="MYTV711" start="20230906100000 +0000" stop="20230906100500 +0000">
+    <title>Utama Puncak Jam ini</title>
+    <desc>Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan.</desc>
+  </programme>
+  <programme channel="MYTV711" start="20230906103000 +0000" stop="20230906110000 +0000">
+    <title>Ulang Siar Malaysia Petang Ini</title>
+    <desc>Ulang Siar Program terbitan BERNAMA TV Platform dengan kemaskini perkembangan semasa dalam negara, dirangkum setiap petang.</desc>
+  </programme>
+  <programme channel="MYTV711" start="20230906110000 +0000" stop="20230906110500 +0000">
+    <title>Ringkas Waktu Ini</title>
+    <desc>Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan.</desc>
+  </programme>
+  <programme channel="MYTV711" start="20230906111000 +0000" stop="20230906113000 +0000">
+    <title>Laman Iman</title>
+    <desc>Tazkirah yang memberi pedoman/nasihat mengenai sentuhan cinta dan kasih sayang dariNya dalam melahirkan jiwa yang sentiasa tenang, syukur dan reda akan ketentuanNya.</desc>
+  </programme>
+  <programme channel="MYTV711" start="20230906113000 +0000" stop="20230906120000 +0000">
+    <title>Laman Iman</title>
+    <desc>Tazkirah yang memberi pedoman/nasihat mengenai sentuhan cinta dan kasih sayang dariNya dalam melahirkan jiwa yang sentiasa tenang, syukur dan reda akan ketentuanNya.</desc>
+  </programme>
+  <programme channel="MYTV711" start="20230906120000 +0000" stop="20230906121500 +0000">
+    <title>Utama Puncak Jam ini</title>
+    <desc>Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan</desc>
+  </programme>
+  <programme channel="MYTV711" start="20230906121000 +0000" stop="20230906125500 +0000">
+    <title>Kenangan Lalu</title>
+    <desc>Seleksi Lagu-lagu era 70 - 90 an</desc>
+  </programme>
+  <programme channel="MYTV711" start="20230906130000 +0000" stop="20230906160000 +0000">
+    <title>Seleksi Lagu</title>
+    <desc>Seleksi Lagu-Lagu terbaik, Untuk Anda</desc>
   </programme>
   <programme channel="MYTV102" start="20230830183000 +0000" stop="20230830190000 +0000">
     <title>Thadayam</title>
@@ -7759,61 +7783,129 @@
     <title>Nenjangal</title>
     <desc>Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.</desc>
   </programme>
-  <programme channel="MYTV114" start="20230830100000 +0000" stop="20230830110000 +0000">
-    <title>Hijrah Berselawat</title>
-    <desc>Hijrah Berselawat mendendangkan alunan selawat dan dzikir oleh artis artis dan kumpulan qasidah yang terkenal dan juga akan diselitkan dengan tazkirah.</desc>
+  <programme channel="MYTV102" start="20230905183000 +0000" stop="20230905190000 +0000">
+    <title>Aathma</title>
+    <desc>Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.</desc>
   </programme>
-  <programme channel="MYTV114" start="20230830110000 +0000" stop="20230830112500 +0000">
-    <title>Panggilan Agung Maghrib</title>
-    <desc>Himpunan Hadis, klip selawat, surah lazim dan Azan</desc>
+  <programme channel="MYTV102" start="20230905190000 +0000" stop="20230905200000 +0000">
+    <title>Golden Turbulence</title>
+    <desc>Kisah pemuda yang bertungkus lumus memajukan syarikat milik mereka akan tetapi terdapat konflik yang mereka perlu depani.Kisah 4 anak muda yang menceburi bidang perniagaan. Kekecohan mula timbul apabila keluarga campur tangan dalam perniagaan mereka.</desc>
   </programme>
-  <programme channel="MYTV114" start="20230830112500 +0000" stop="20230830113000 +0000">
-    <title>Kapsul Inspirasi</title>
-    <desc>Tazkirah ringkas yang mengangkat tema tentang sumber motivasi dan dorongan untuk mencapai tujuan dalam hidup serta mengamalkan nila-nilai Islam dalam kehidupan.</desc>
+  <programme channel="MYTV102" start="20230905200000 +0000" stop="20230905203000 +0000">
+    <title>Anjarai Petti</title>
+    <desc>Rancangan masakan masyarakat India.Chef Ricky akan berkongsi resipi pelbagai sajian masyarakat India yang istimewa dan juga resep-resepi baharu menggunakan pelbagai rempah ratus India.</desc>
   </programme>
-  <programme channel="MYTV114" start="20230830113000 +0000" stop="20230830120000 +0000">
-    <title>Cinta Ilmu 2023</title>
-    <desc>Sebuah program kerohanian yang menampilkan ilmuan Islam dari pelbagai bidang dalam mengupas kitab ilmu secara terperinci</desc>
+  <programme channel="MYTV102" start="20230905203000 +0000" stop="20230905210000 +0000">
+    <title>A Day In Uniform</title>
+    <desc>Rancangan majalah kerjaya.Rancangan majalah remaja yang memperkenalkan badan-badan uniform dalam sektor awam dan swasta bagi memberi pendedahan kepada umum tentang tugas, tanggungjawab dan cabaran mereka dalam kerjaya masing-masing.</desc>
   </programme>
-  <programme channel="MYTV114" start="20230830120000 +0000" stop="20230830123000 +0000">
-    <title>Berita Alhijrah (L)</title>
-    <desc>Berita Utama Tv-Alhijrah terbahagi kepada beberapa segmen iaitu Berita Utama Harian, Berita Luar Negara, Laporan Khas, sukan, ramalan cuaca, saham &amp; ekonomi.</desc>
+  <programme channel="MYTV102" start="20230905210000 +0000" stop="20230905220000 +0000">
+    <title>Hiburan Minggu Ini</title>
+    <desc>Hiburan Minggu Ini menampilkan persembahan menarik artis tanah air.Saksikan persembahan istimewa dan dendangan lagu-lagu nyanyian Kumpulan KRU.</desc>
   </programme>
-  <programme channel="MYTV114" start="20230830123000 +0000" stop="20230830130000 +0000">
-    <title>Mencari Cinta</title>
-    <desc>Sebuah travelog pengembaraan seorang ibu tunggal &amp; anaknya, menjelajahi keindahan alam semulajadi di Malaysia yang unik dan kurang diketahui pelancong.</desc>
+  <programme channel="MYTV102" start="20230905220000 +0000" stop="20230905230000 +0000">
+    <title>Hero (S2)</title>
+    <desc>Kisah penyelamat di Malaysia dalam perjuangan menjalankan tugas mereka disamping cabaran dan semangat dedikasi yang mereka perlu hadapi untuk keselamatan orang awam.Mengisahkan kerjaya sebagai seorang ahli Bomba dan penyelamat yang sering berdepan dengan pelbagai cabaran dan halangan dalam tugasan seharian demi untuk menjaga keselamatan dan kesejahteraan masyarakat.</desc>
   </programme>
-  <programme channel="MYTV114" start="20230830130000 +0000" stop="20230830140000 +0000">
-    <title>Dakwah Live Merdeka</title>
-    <desc>Sebuah program siaran langsung  membincangkan isu-isu semasa yang berlaku dalam kehidupan masyarakat muslim khususnya yang akan dikupas dari perspektif ilmuan</desc>
+  <programme channel="MYTV102" start="20230905230000 +0000" stop="20230905233000 +0000">
+    <title>Budin Oh Budin (S1)</title>
+    <desc>AnimasiMengisahkan tentang seorang budak bandar bersama ibunya yang berhijrah ke kampung dan tinggal bersama datuknya. Setiap hari ada sahaja aktiviti yang dilakukan yang mencuit hati orang ramai terutama kanak-kanak.</desc>
   </programme>
-  <programme channel="MYTV114" start="20230830140000 +0000" stop="20230830143000 +0000">
-    <title>Ulama Kemerdekaan</title>
-    <desc>Program yang memaparkan biografi para tokoh agamawan Melayu dan sumbangan mereka terhadap perjuangan kemerdekaan.</desc>
+  <programme channel="MYTV102" start="20230905233000 +0000" stop="20230906000000 +0000">
+    <title>Abus (SR2)</title>
+    <desc>Animasi tentang sebuah komuniti Abus yang mempunyai unsur hiburan dan pengajaran yang menerapkan nilai-nilai murni untuk membentuk perpaduan negara.Animasi tentang sebuah komuniti Abus yang mempunyai unsur hiburan dan pengajaran yang menerapkan nilai-nilai murni untuk membentuk perpaduan negara.</desc>
   </programme>
-  <programme channel="MYTV114" start="20230830143000 +0000" stop="20230830150000 +0000">
-    <title>Tawajjuh</title>
-    <desc>Alunan Bacaan Yassin untuk dibaca dan didengari bersama-sama.</desc>
+  <programme channel="MYTV102" start="20230906000000 +0000" stop="20230906003000 +0000">
+    <title>Pendekar Cilik</title>
+    <desc>Kisah animasi tentang pendekar yang gagah dan bersemangat untuk menjaga dan melindunggi masyarakat.Animasi yang mengisahkan Hang Tuah bersama 4 sahabatnya yang hidup dalam dunia siber. Mereka berganding bersama Noni dan Habib untuk menentang Daning, penjahat zalim yang berdendam dengan Hang Tuah.</desc>
   </programme>
-  <programme channel="MYTV114" start="20230830150000 +0000" stop="20230830160000 +0000">
-    <title>My Qurantime 2.0</title>
-    <desc>Program tadabbur al-Quran bermula surah al-Fatihah, al- Baqarah dari  juzuk 1 hingga 30 iaitu sebanyak 604 muka surat.</desc>
+  <programme channel="MYTV102" start="20230906003000 +0000" stop="20230906010000 +0000">
+    <title>Jaguh Silat</title>
+    <desc>Tajuk bagi episod kali ini adalah "kalah" . Mengisahkan dua kumpulan silat iaitu Rajawali dan Cakar Harimau yang sentiasa bersaing untuk menjadi yang terbaik.Kisah dua kumpulan silat iaitu Rajawali dan Cakar Harimau yang sentiasa bersaing untuk menjadi yang terbaik.</desc>
   </programme>
-  <programme channel="MYTV114" start="20230830160000 +0000" stop="20230830163000 +0000">
-    <title>Cinta Ilmu 2023</title>
-    <desc>Sebuah program kerohanian yang menampilkan ilmuan Islam dari pelbagai bidang dalam mengupas kitab ilmu secara terperinci</desc>
+  <programme channel="MYTV102" start="20230906010000 +0000" stop="20230906020000 +0000">
+    <title>P.A Lelaki Kerek</title>
+    <desc>Sebuah drama penuh konflik yang menarik untuk tontonan anda.Irdina menghadiri majlis sambutan hari lahir Tengku Iqbal. Dia mengenakan pakaian yang telah dihadiahkan oleh Tengku Irfan.</desc>
   </programme>
-  <programme channel="MYTV114" start="20230830163000 +0000" stop="20230830170000 +0000">
-    <title>Assalam Ustaz</title>
-    <desc>Sebuah program bual bicara yang membicarakan topik-topik terkini dan menampilkan tetamu-tetamu undangan dari pelbagai bidang secara santai dan bersahaja</desc>
+  <programme channel="MYTV102" start="20230906020000 +0000" stop="20230906030000 +0000">
+    <title>Jom Shoppe</title>
+    <desc>Sebuah rancangan membeli-belah dalam talian khas untuk anda.Sebuah rancangan membeli-belah dalam talian khas untuk anda.</desc>
   </programme>
-  <programme channel="MYTV114" start="20230830170000 +0000" stop="20230830173000 +0000">
-    <title>Reflections</title>
-    <desc>Imam Suhaib Webb meneruskan tafsiran surah AlBaqarah dengan menyatakan dunia ini hanyalah sementara setiap dari kita akan mati</desc>
+  <programme channel="MYTV102" start="20230906030000 +0000" stop="20230906040000 +0000">
+    <title>Squad 38</title>
+    <desc>Apabila pasukannya sering gagal untuk memungut cukai daripada orang-orang kaya yang bijak menggunakan pelbagai helah, Ketua pasukan pemungut cukai kerajaan dan beberapa orang penipu (Con Artist) perlu bekerjasama bagi memastikan siApabila pasukannya sering gagal untuk memungut cukai daripada orang-orang kaya yang bijak menggunakan pelbagai helah, Ketua pasukan pemungut cukai kerajaan dan beberapa orang penipu (Con Artist) perlu bekerjasama bagi memastikan si kaya yang selalu mengelak untuk membayar cukai dalam jumlah yang besar menunaikan tanggungjawab mereka!</desc>
   </programme>
-  <programme channel="MYTV114" start="20230830173000 +0000" stop="20230830180000 +0000">
-    <title>Saat Syahdu</title>
-    <desc>Zikir dan selawat</desc>
+  <programme channel="MYTV102" start="20230906040000 +0000" stop="20230906042000 +0000">
+    <title>BERITA MANDARIN</title>
+    <desc>Memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewanganMemaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.</desc>
+  </programme>
+  <programme channel="MYTV102" start="20230906042000 +0000" stop="20230906043000 +0000">
+    <title>Galeri Mandarin 2023</title>
+    <desc>Majalah berbahasa Mandarin.Rancangan berbentuk majalah berbahasa Mandarin yang memaparkan aktiviti dan kegiatan semasa masyarakat.</desc>
+  </programme>
+  <programme channel="MYTV102" start="20230906043000 +0000" stop="20230906050000 +0000">
+    <title>UPDATES @NOON</title>
+    <desc>Bringing you the latest development across the globbe in the mid-day update.Bringing you the latest development across the globbe in the mid-day update.</desc>
+  </programme>
+  <programme channel="MYTV102" start="20230906050000 +0000" stop="20230906060000 +0000">
+    <title>Ripin Mugha Batu</title>
+    <desc>Cabaran yang dihadapi oleh tukang karut, Tok Jogho Ripin dalam mencari pelapis dikir barat agar seni budaya tidak hilang ditelan zaman. Pelakon : Wan Hanafi Su, Sabri Yunus, Laila Nasir, Kuza Kuna, Issey Fazlisham, Asrul FaiSetopa pulang menemui ayahnya dan memohon maaf. Hal ini menggembirakan semua ahli keluarga Ripin. Walau bagaimanapun, Syura masih tidak mahu menegur Ripin kerana masih tersinggung dengan kata-kata Ripin semasa hari perkahwinannya.</desc>
+  </programme>
+  <programme channel="MYTV102" start="20230906060000 +0000" stop="20230906070000 +0000">
+    <title>Dia Anak Jeneral</title>
+    <desc>Drama bersiri.Kisah seorang gadis anak kepada seorang jeneral yang tertekan apabila ayahnya bercadang untuk menjodohkannya dengan seorang pegawai tentera. Dia cuba mencari alasan untuk menolak kerana tidak mencintai pilihan ayahnya itu. Akhirnya dia bertemu dengan seorang lelaki dan mula jatuh cinta.</desc>
+  </programme>
+  <programme channel="MYTV102" start="20230906070000 +0000" stop="20230906090000 +0000">
+    <title>Alaiyae Sittralaiyae</title>
+    <desc>Sebuah telemovie tamil lakonan Loga Varman Strideran, Kavitha Sinhya, Thasha Krishnakumar, Sasitharan K Rajoo, K. Gunasegaran dan Aahmuu Thirunyanam.Kisah kehidupan pasangan yang sudah bertunang dalam menangani perselisihan diantara mereka yang membawa kepada cabaran-cabaran yang tidak dijangka dalam kisah yang turut berkait rapat dengan situasi yang berlaku semasa wabak Covid-19.</desc>
+  </programme>
+  <programme channel="MYTV102" start="20230906090000 +0000" stop="20230906100000 +0000">
+    <title>Sutera Bayu</title>
+    <desc>Sutera Bayu adalah sebuah drama yang mengisahkan tentang selendang pemberian isteri  Sharif Osman sebagai hadiah kepada Pengian Aminah.Sutera Bayu adalah sebuah drama yang mengisahkan tentang selendang pemberian isteri  Sharif Osman sebagai hadiah kepada Pengian Aminah.</desc>
+  </programme>
+  <programme channel="MYTV102" start="20230906100000 +0000" stop="20230906110000 +0000">
+    <title>Pekan Kecil Kampung Terpencil</title>
+    <desc>Saksikan drama khas sempena Hari Kebangsaan, lakonan Fathil Dani, Raja Ema, Khiriah, Wany Kayrie, Bohari Ibrahim, Rosnah Johari, Bell Ngasri.Puan memujuk Wadud &amp; Dara akhirnya mereka berdua setuju. Namun syarat-syarat mereka menjadi halangan bagi orang Kampung. Tok Ketua bersama kawan-kawan berusaha menyelesaikan masalah yang timbul.</desc>
+  </programme>
+  <programme channel="MYTV102" start="20230906110000 +0000" stop="20230906113000 +0000">
+    <title>BERITA MANDARIN</title>
+    <desc>Memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.Ikuti Berita Mandarin yang memaparkan perkembangan politik, sosial, ekonomi, sukan hiburan dan isu-isu semasa.</desc>
+  </programme>
+  <programme channel="MYTV102" start="20230906113000 +0000" stop="20230906120000 +0000">
+    <title>BERITA TAMIL</title>
+    <desc>Berita berbahasa Tamil yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.Berita berbahasa Tamil yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
+  </programme>
+  <programme channel="MYTV102" start="20230906120000 +0000" stop="20230906130000 +0000">
+    <title>Partners For Justice</title>
+    <desc>Drama bersiri Korea lakonan Jung Jae-young, Jeong Yu-mi, Park Eun-seok, Oh Man-seok dan No Min-woo.Baek Beom, seorang doktor forensik, sukar untuk bergaul tetapi mahir dalam tugasnya. Eun Sol pula ialah seorang pendakwa raya baru yang mempunyai personaliti positif. Mereka berdua bekerjasama untuk menyelesaikan pelbagai jenayah.</desc>
+  </programme>
+  <programme channel="MYTV102" start="20230906130000 +0000" stop="20230906133000 +0000">
+    <title>Apartmen Putra 59200 (Musim 4)</title>
+    <desc>Sitkom komedi yang sarat dengan kisah-kisah berkaitan pelbagai isu semasa.Gila Bola - Demam bola melanda Apartmen Putra sehingga menyebabkan Kak Lah dan penghuni lain terganggu dengan sorakan 3 sepupu di rumah. Kehadiran Bomoh William disambut baik oleh Ba dan Roy yang menyangka bahawa kemampuannya mampu menyelesaikan masalah mereka berdua.</desc>
+  </programme>
+  <programme channel="MYTV102" start="20230906133000 +0000" stop="20230906150000 +0000">
+    <title>Konsert Minggu Ini 2019</title>
+    <desc>Konsert hiburan terbitan Unit Hiburan TV RTM yang menampilkan persembahan artis-artis tersohor tanahair.Saksikan Konsert Minggu Ini bersama Exist Reunion dengan menampilkan Black sebagai artis jemputan.</desc>
+  </programme>
+  <programme channel="MYTV102" start="20230906150000 +0000" stop="20230906160000 +0000">
+    <title>Reborn</title>
+    <desc>Drama kepolisan bersiri yang menarik untuk tontotan seisi keluarga.Qin Chi, seorang pegawai polis yang terselamat dari pertempuran senjata api yang dahsyat. Dia cedera parah dan hilang ingatan. Namun, dia harus mendapatkan semula memorinya supaya dia menemui kebenaran tentang kejadian yang hampir meragut nyawanya itu.</desc>
+  </programme>
+  <programme channel="MYTV102" start="20230906160000 +0000" stop="20230906163000 +0000">
+    <title>Gadis Insta Masuk Dapur</title>
+    <desc>Rancangan masakan yang akan menjemput gadis-gadis Instagram yang popular untuk memasak bersama Chef Zam.Kali ini Cef Zam menjemput gadis instagram iaitu Nursyafika Rahman. Cef Zam akan mengusik dan menguji skil masakannya sambil gadis tersebut berkongsi cerita menarik menjadi gadis yang popular di instagram.</desc>
+  </programme>
+  <programme channel="MYTV102" start="20230906163000 +0000" stop="20230906173000 +0000">
+    <title>Hero (S2)</title>
+    <desc>Kisah penyelamat di Malaysia dalam perjuangan menjalankan tugas mereka disamping cabaran dan semangat dedikasi yang mereka perlu hadapi untuk keselamatan orang awam.Mengisahkan kerjaya sebagai seorang ahli Bomba dan penyelamat yang sering berdepan dengan pelbagai cabaran dan halangan dalam tugasan seharian demi untuk menjaga keselamatan dan kesejahteraan masyarakat.</desc>
+  </programme>
+  <programme channel="MYTV102" start="20230906173000 +0000" stop="20230906180000 +0000">
+    <title>Cinta Macarons</title>
+    <desc>Saksikan drama bersiri menarik ini lakonan Faizal Hussein,Zarina,Tunku Hanis dan Liza Abdullah.Saksikan drama bersiri menarik ini lakonan Faizal Hussein,Zarina,Tunku Hanis dan Liza Abdullah.</desc>
+  </programme>
+  <programme channel="MYTV102" start="20230906180000 +0000" stop="20230906183000 +0000">
+    <title>Nenjangal</title>
+    <desc>Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.</desc>
   </programme>
   <programme channel="MYTV114" start="20230830180000 +0000" stop="20230830200000 +0000">
     <title>Siaran Langsung Mekah</title>
@@ -8338,82 +8430,6 @@
   <programme channel="MYTV114" start="20230903210000 +0000" stop="20230903220000 +0000">
     <title>Quran@114</title>
     <desc>Sebuah program berorientasikan tadabbur al-quran disertakan pengajaran tajwid dan tarannum Al- Quran.</desc>
-  </programme>
-  <programme channel="MYTV122" start="20230830100000 +0000" stop="20230830101500 +0000">
-    <title>Re Bao (L)</title>
-    <desc>Re Bao memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Mandarin</desc>
-  </programme>
-  <programme channel="MYTV122" start="20230830101500 +0000" stop="20230830103000 +0000">
-    <title>Pemerindang Borneo Express</title>
-    <desc>Pemerindang Borneo adalah sebuah rancangan muzik yang mengetengahkan artis-artis popular tempatan khususnya di Borneo dan juga perkongsian secara eksklusif mengenai perjalanan karier muzik mereka.</desc>
-  </programme>
-  <programme channel="MYTV122" start="20230830103000 +0000" stop="20230830110000 +0000">
-    <title>Menghilir Rajang (S2)</title>
-    <desc>Dokumentari yang mengisar tentang kehidupan penduduk yang tinggal di sepanjang sungai Rajang, Sarawak serta berkongsi kisah suka duka masyarakat yang bergantung kepada sungai yang terpanjang di Malaysia</desc>
-  </programme>
-  <programme channel="MYTV122" start="20230830110000 +0000" stop="20230830113000 +0000">
-    <title>BERITA (L)</title>
-    <desc>Berita Iban memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Iban</desc>
-  </programme>
-  <programme channel="MYTV122" start="20230830113000 +0000" stop="20230830114500 +0000">
-    <title>Dari Jakarta Ke Nusantara</title>
-    <desc>Dari Jakarta Ke Nusantara menceritakan proses pemindahan ibu negara baharu Indonesia dari Jakarta ke Kalimantan Timur sebagai langkah membangunkan peradaban baharu.</desc>
-  </programme>
-  <programme channel="MYTV122" start="20230830114500 +0000" stop="20230830120000 +0000">
-    <title>Menarik Sepuluh</title>
-    <desc>Menarik Sepuluh mengumpulkan 10 kisah unik dan menarik berlaku di mana sahaja</desc>
-  </programme>
-  <programme channel="MYTV122" start="20230830120000 +0000" stop="20230830123500 +0000">
-    <title>UTAMA (L)</title>
-    <desc>UTAMA merupakan segmen berita utama yang memaparkan Berita Terkini di seluruh Malaysia dan dunia.</desc>
-  </programme>
-  <programme channel="MYTV122" start="20230830123500 +0000" stop="20230830124500 +0000">
-    <title>Tempat Kita (L)</title>
-    <desc>Mengetengahkan laporan mengenai keindahan serta lokasi menarik di dalam negeri.</desc>
-  </programme>
-  <programme channel="MYTV122" start="20230830124500 +0000" stop="20230830131500 +0000">
-    <title>Awang The Iban Warrior</title>
-    <desc>Awang Anak Rawang merupakan satu-satunya penerima pingat  terbilang Green Cross dari Ratu Elizabeth II, Ratu Britain. Tindakan nekad Awang menyabung nyawa menjadi teladan dan iktibar buat semua perajurit tanahair akan</desc>
-  </programme>
-  <programme channel="MYTV122" start="20230830131500 +0000" stop="20230830133000 +0000">
-    <title>Lifelong Learning (S2)</title>
-    <desc>Lifelong Learning merupakan sebuah rancangan realiti yang membawakan kisah inspirasi serta pengalaman daripada individu yang mempunyai latar belakang yang berbeza.</desc>
-  </programme>
-  <programme channel="MYTV122" start="20230830133000 +0000" stop="20230830140000 +0000">
-    <title>Pejalai Kamek Orang</title>
-    <desc>Hosted and narrated by Tony Eusoff, traces locations &amp; stories from people who have heard, experienced and witnessed events right from Brooke Era in 1841 leading up to Sarawak&#x2019;s independence in July 1968</desc>
-  </programme>
-  <programme channel="MYTV122" start="20230830140000 +0000" stop="20230830150000 +0000">
-    <title>Ertugrul (S5)</title>
-    <desc>A 13th-century Turkish warrior agrees to fight the enemies of a sultan in exchange for land when a good deed endangers his clan.</desc>
-  </programme>
-  <programme channel="MYTV122" start="20230830150000 +0000" stop="20230830153000 +0000">
-    <title>TVS Nightline (L)</title>
-    <desc>Memaparkan laporan peristiwa yang berlaku di seluruh Malaysia dalam bahasa English</desc>
-  </programme>
-  <programme channel="MYTV122" start="20230830153000 +0000" stop="20230830161500 +0000">
-    <title>My Husband In Law</title>
-    <desc>Thierawat, a handsome and skilled architect who takes his job way too serious, is the dream man for all his female colleagues. He plans to go through a fake marriage with his close friends.</desc>
-  </programme>
-  <programme channel="MYTV122" start="20230830161500 +0000" stop="20230830163000 +0000">
-    <title>Pemerindang Borneo Express</title>
-    <desc>Pemerindang Borneo adalah sebuah rancangan muzik yang mengetengahkan artis-artis popular tempatan khususnya di Borneo dan juga perkongsian secara eksklusif mengenai perjalanan karier muzik mereka.</desc>
-  </programme>
-  <programme channel="MYTV122" start="20230830163000 +0000" stop="20230830170000 +0000">
-    <title>The Curious Quest</title>
-    <desc>A curious Sarawakian who wonders about questions that Sarawakians often wonder about history, culture and society. Join Husni as he goes on a quest to find the answers to Sarawak&#x2019;s untold stories.</desc>
-  </programme>
-  <programme channel="MYTV122" start="20230830170000 +0000" stop="20230830173000 +0000">
-    <title>Kediaman Agro</title>
-    <desc>&#x2018;KEDIAMAN AGRO&#x2019; merupakan program dokumentari yang menumpukan kepada teknologi penanaman makanan berskala kecil seperti di kawasan rumah, mahupun mini kebun.</desc>
-  </programme>
-  <programme channel="MYTV122" start="20230830173000 +0000" stop="20230830180000 +0000">
-    <title>Nadi Seni</title>
-    <desc>Each episode will feature one singer from Sarawak and their music video</desc>
-  </programme>
-  <programme channel="MYTV122" start="20230830180000 +0000" stop="20230830183000 +0000">
-    <title>A Day With Champion (S2)</title>
-    <desc>Documentary of six athletes in variant of sports, at different stages in their careers. It lifts the curtain on how difficult and competitive it is to find place in international sports today.</desc>
   </programme>
   <programme channel="MYTV122" start="20230830183000 +0000" stop="20230830190000 +0000">
     <title>Sekolah Kamek Nang Champiyen!</title>
@@ -9615,49 +9631,213 @@
     <title>Empresses In The Palace</title>
     <desc>A young woman born in Eight Banners' family marries the Emperor of the Qing Dynasty. After surviving through many murderous scandals and betrayals, she prevails as the most powerful woman in the Emperor's harem, the E</desc>
   </programme>
-  <programme channel="MYTV116" start="20230830100000 +0000" stop="20230830103000 +0000">
-    <title>Berita Latah</title>
-    <desc>Menampilkan pelatah-pelatah terkenal yang membacakan berita sambil diusik oleh efek khas yang mencetuskan mereka melatah.</desc>
+  <programme channel="MYTV122" start="20230905180000 +0000" stop="20230905190000 +0000">
+    <title>Empresses In The Palace</title>
+    <desc>A young woman born in Eight Banners' family marries the Emperor of the Qing Dynasty. After surviving through many murderous scandals and betrayals, she prevails as the most powerful woman in the Emperor's harem, the E</desc>
   </programme>
-  <programme channel="MYTV116" start="20230830103000 +0000" stop="20230830110000 +0000">
-    <title>Suke Celeb</title>
-    <desc>Program shopping untuk selebriti menjual produk mereka secara kreatif dan menarik di Platform Suke TV.</desc>
+  <programme channel="MYTV122" start="20230905190000 +0000" stop="20230905193000 +0000">
+    <title>Crocodile Byte</title>
+    <desc>Crocodile Byte a show where entrepreneurs pitch businesses to investors (Crocodile) to capture attention, win trust and convince them to invest in their venture to further grow their businesses</desc>
   </programme>
-  <programme channel="MYTV116" start="20230830110000 +0000" stop="20230830113000 +0000">
-    <title>Sejarah Dari Sejadah</title>
-    <desc>Kisah Sejarah para Rasul dan Anbiya Islam.</desc>
+  <programme channel="MYTV122" start="20230905193000 +0000" stop="20230905200000 +0000">
+    <title>Tembawai Kanyuk</title>
+    <desc>Empeting Anak Baong&#x2019;s longhouse has been picked  to have their daily lives filmed for a reality show.But things get hilariously when the villagers' conflicting secrets and hidden feelings begin to come to light.</desc>
   </programme>
-  <programme channel="MYTV116" start="20230830113000 +0000" stop="20230830120000 +0000">
-    <title>Makan Tepi Lori</title>
-    <desc>Rancangan dihoskan oleh Wanie Ooi ini membawa anda menikmati makanan dari Food Truck di sekitar Lembah Klang</desc>
+  <programme channel="MYTV122" start="20230905200000 +0000" stop="20230905203000 +0000">
+    <title>Acak Ilak</title>
+    <desc>Peserta diberi cabaran untuk mendapatkan petunjuk siapa pencuri sebenar diantara mereka. Diakhir rancangan ini, pencuri akan dikenakan penalti bersama peserta yang gagal mengumpul token paling banyak.</desc>
   </programme>
-  <programme channel="MYTV116" start="20230830120000 +0000" stop="20230830130000 +0000">
-    <title>Suke Celeb</title>
-    <desc>Program shopping untuk selebriti menjual produk mereka secara kreatif dan menarik di Platform Suke TV.</desc>
+  <programme channel="MYTV122" start="20230905203000 +0000" stop="20230905210000 +0000">
+    <title>Outback Sarawak</title>
+    <desc>OUTBACK SARAWAK reality-based show that spans 30 days. It will bring its audience on a off the beaten track adventure from within a 4x4. The 4x4 will be used by the host for a truly unforgettable journey.</desc>
   </programme>
-  <programme channel="MYTV116" start="20230830130000 +0000" stop="20230830133000 +0000">
-    <title>Berita Latah</title>
-    <desc>Menampilkan pelatah-pelatah terkenal yang membacakan berita sambil diusik oleh efek khas yang mencetuskan mereka melatah.</desc>
+  <programme channel="MYTV122" start="20230905210000 +0000" stop="20230905213000 +0000">
+    <title>Sekolah Kamek Nang Champiyen!</title>
+    <desc>Program yang memaparkan kejayaan di Sarawak dari segi akademik, sukan, inovasi dan lain-lain serta mengharumkan nama Sarawak mahupun antarabangsa dan menginspirasi penonton untuk mendorong kepada kejayaan</desc>
   </programme>
-  <programme channel="MYTV116" start="20230830133000 +0000" stop="20230830140000 +0000">
-    <title>Suke Celeb</title>
-    <desc>Program shopping untuk selebriti menjual produk mereka secara kreatif dan menarik di Platform Suke TV.</desc>
+  <programme channel="MYTV122" start="20230905213000 +0000" stop="20230905220000 +0000">
+    <title>A Day With Champion (S2)</title>
+    <desc>Documentary of six athletes in variant of sports, at different stages in their careers. It lifts the curtain on how difficult and competitive it is to find place in international sports today.</desc>
   </programme>
-  <programme channel="MYTV116" start="20230830140000 +0000" stop="20230830150000 +0000">
-    <title>Suke Hati</title>
-    <desc>Program shopping yang mempromosikan produk SME yang sangat istimewa.</desc>
+  <programme channel="MYTV122" start="20230905220000 +0000" stop="20230905230000 +0000">
+    <title>Ertugrul (S5)</title>
+    <desc>A 13th-century Turkish warrior agrees to fight the enemies of a sultan in exchange for land when a good deed endangers his clan.</desc>
   </programme>
-  <programme channel="MYTV116" start="20230830150000 +0000" stop="20230830160000 +0000">
-    <title>(L) VC</title>
-    <desc>Program muzik secara langsung, mempersembahkan video muzik paling trend dalam industri.</desc>
+  <programme channel="MYTV122" start="20230905230000 +0000" stop="20230905231500 +0000">
+    <title>Menarik Sepuluh</title>
+    <desc>Menarik Sepuluh mengumpulkan 10 kisah unik dan menarik berlaku di mana sahaja</desc>
   </programme>
-  <programme channel="MYTV116" start="20230830160000 +0000" stop="20230830170000 +0000">
-    <title>Suke Hati</title>
-    <desc>Program shopping yang mempromosikan produk SME yang sangat istimewa.</desc>
+  <programme channel="MYTV122" start="20230905231500 +0000" stop="20230905233000 +0000">
+    <title>Pemerindang Borneo Express</title>
+    <desc>Pemerindang Borneo adalah sebuah rancangan muzik yang mengetengahkan artis-artis popular tempatan khususnya di Borneo dan juga perkongsian secara eksklusif mengenai perjalanan karier muzik mereka.</desc>
   </programme>
-  <programme channel="MYTV116" start="20230830170000 +0000" stop="20230830183000 +0000">
-    <title>Suke Celeb</title>
-    <desc>Program shopping untuk selebriti menjual produk mereka secara kreatif dan menarik di Platform Suke TV.</desc>
+  <programme channel="MYTV122" start="20230905233000 +0000" stop="20230906000000 +0000">
+    <title>The Curious Quest</title>
+    <desc>A curious Sarawakian who wonders about questions that Sarawakians often wonder about history, culture and society. Join Husni as he goes on a quest to find the answers to Sarawak&#x2019;s untold stories.</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906000000 +0000" stop="20230906001500 +0000">
+    <title>RINGKAS (L)</title>
+    <desc>RINGKAS memaparkan berita-berita terkini di seluruh Malaysia</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906001500 +0000" stop="20230906004500 +0000">
+    <title>Kediaman Agro</title>
+    <desc>&#x2018;KEDIAMAN AGRO&#x2019; merupakan program dokumentari yang menumpukan kepada teknologi penanaman makanan berskala kecil seperti di kawasan rumah, mahupun mini kebun.</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906004500 +0000" stop="20230906011500 +0000">
+    <title>Nadi Seni</title>
+    <desc>Each episode will feature one singer from Sarawak and their music video</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906011500 +0000" stop="20230906013000 +0000">
+    <title>Ngenjen Di Semandin</title>
+    <desc>KISAH bermula dengan Bang Bujang dan Matt memancing di hulu sungai sambil santai, Bang Bujang menceritakan pengalaman dari zaman remaja sehingga pertengahan umur beliau.</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906013000 +0000" stop="20230906020000 +0000">
+    <title>A Day With Champion (S2)</title>
+    <desc>Documentary of six athletes in variant of sports, at different stages in their careers. It lifts the curtain on how difficult and competitive it is to find place in international sports today.</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906020000 +0000" stop="20230906021500 +0000">
+    <title>RINGKAS (L)</title>
+    <desc>RINGKAS memaparkan berita-berita terkini di seluruh Malaysia</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906021500 +0000" stop="20230906023000 +0000">
+    <title>TVS Live Express</title>
+    <desc>Konsert mini TVS Live menampilkan barisan penyanyi terkenal tanah air dan tempatan Sarawak</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906023000 +0000" stop="20230906030000 +0000">
+    <title>Sekolah Kamek Nang Champiyen!</title>
+    <desc>Program yang memaparkan kejayaan di Sarawak dari segi akademik, sukan, inovasi dan lain-lain serta mengharumkan nama Sarawak mahupun antarabangsa dan menginspirasi penonton untuk mendorong kepada kejayaan</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906030000 +0000" stop="20230906031500 +0000">
+    <title>BERITA (L)</title>
+    <desc>Berita Iban memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Iban</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906031500 +0000" stop="20230906034500 +0000">
+    <title>Chef @ Home</title>
+    <desc>Local Chef teaches husband and wife how to buy at market and prepare quick and healthy Sarawak cuisine at home.</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906034500 +0000" stop="20230906040000 +0000">
+    <title>Borneo From Above (S2)</title>
+    <desc>To promote and highlighting development of Sarawak</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906040000 +0000" stop="20230906041500 +0000">
+    <title>RINGKAS (L)</title>
+    <desc>RINGKAS memaparkan berita-berita terkini di seluruh Malaysia</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906041500 +0000" stop="20230906043000 +0000">
+    <title>Pemerindang Borneo Express</title>
+    <desc>Pemerindang Borneo adalah sebuah rancangan muzik yang mengetengahkan artis-artis popular tempatan khususnya di Borneo dan juga perkongsian secara eksklusif mengenai perjalanan karier muzik mereka.</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906043000 +0000" stop="20230906050000 +0000">
+    <title>Bujang Berani (S2)</title>
+    <desc>Memaparkan patriot Sarawak yang tidak didendang dan yang masih hidup untuk menceritakan kisahnya. 3 episode menampilkan 3 pahlawan lelaki, 3 episode menampilkan tokoh wanita (women empowerment).</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906050000 +0000" stop="20230906051500 +0000">
+    <title>Re Bao (L)</title>
+    <desc>Re Bao memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Mandarin</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906051500 +0000" stop="20230906054500 +0000">
+    <title>Cuti-Cuti Tersayang Kamek</title>
+    <desc>This series will bring the viewers to all the less known travel locations in Sarawak, featured in a fast paced, exciting narrative and hosted by energetic, uplifting host.</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906054500 +0000" stop="20230906061500 +0000">
+    <title>Khazanah Kenyalang (S2)</title>
+    <desc>Dokumentari mengangkat 45 buah koleksi khazanah terbaik negeri Sarawak - yang tersimpan di Arkib Sarawak sebagai khazanah yang signifikan dan bertaraf dunia.</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906061500 +0000" stop="20230906064500 +0000">
+    <title>Sarawak Panorama (S2)</title>
+    <desc>A country without a documentary is like a family without an album. Sarawak Panorama is the family album that my team and I whole heartedly and passionately dedicate to our beloved Sarawak.</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906064500 +0000" stop="20230906070000 +0000">
+    <title>Hustle Hasil (S4)</title>
+    <desc>Exploring various Small Medium Enterprises to discover their startup stories, their achievements, and how The Ministry of Trade has played a vital role in elevating SMEs.</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906070000 +0000" stop="20230906080000 +0000">
+    <title>TVS Live</title>
+    <desc>TVS Live is a mini concert featuring music performances by Malaysian A-Lists, with special appearance of local Sarawakian performers</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906080000 +0000" stop="20230906090000 +0000">
+    <title>Endless Love</title>
+    <desc>A young artist finds herself obligated to sacrifice her love story for hiding a family secret.</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906090000 +0000" stop="20230906091500 +0000">
+    <title>NEWS (L)</title>
+    <desc>Memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa English</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906091500 +0000" stop="20230906093000 +0000">
+    <title>Borneo From Above (S2)</title>
+    <desc>To promote and highlighting development of Sarawak</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906093000 +0000" stop="20230906100000 +0000">
+    <title>BoboiBoy (S2)</title>
+    <desc>A little boy wields alien technology that turns him into a superhero, as he battles aliens who are addicted to cocoa beans.</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906100000 +0000" stop="20230906101500 +0000">
+    <title>Re Bao (L)</title>
+    <desc>Re Bao memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Mandarin</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906101500 +0000" stop="20230906103000 +0000">
+    <title>Pemerindang Borneo Express</title>
+    <desc>Pemerindang Borneo adalah sebuah rancangan muzik yang mengetengahkan artis-artis popular tempatan khususnya di Borneo dan juga perkongsian secara eksklusif mengenai perjalanan karier muzik mereka.</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906103000 +0000" stop="20230906110000 +0000">
+    <title>Menghilir Rajang (S2)</title>
+    <desc>Dokumentari yang mengisar tentang kehidupan penduduk yang tinggal di sepanjang sungai Rajang, Sarawak serta berkongsi kisah suka duka masyarakat yang bergantung kepada sungai yang terpanjang di Malaysia</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906110000 +0000" stop="20230906113000 +0000">
+    <title>BERITA (L)</title>
+    <desc>Berita Iban memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Iban</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906113000 +0000" stop="20230906114500 +0000">
+    <title>Dari Jakarta Ke Nusantara</title>
+    <desc>Dari Jakarta Ke Nusantara menceritakan proses pemindahan ibu negara baharu Indonesia dari Jakarta ke Kalimantan Timur sebagai langkah membangunkan peradaban baharu.</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906114500 +0000" stop="20230906120000 +0000">
+    <title>Menarik Sepuluh</title>
+    <desc>Menarik Sepuluh mengumpulkan 10 kisah unik dan menarik berlaku di mana sahaja</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906120000 +0000" stop="20230906123500 +0000">
+    <title>UTAMA (L)</title>
+    <desc>UTAMA merupakan segmen berita utama yang memaparkan Berita Terkini di seluruh Malaysia dan dunia.</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906123500 +0000" stop="20230906124500 +0000">
+    <title>Tempat Kita (L)</title>
+    <desc>Mengetengahkan laporan mengenai keindahan serta lokasi menarik di dalam negeri.</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906124500 +0000" stop="20230906131500 +0000">
+    <title>Homegrown</title>
+    <desc>Local native chef explore these home-grown ingredients from farm to table; sharing its goodness through the traditional ways of using the ingredients and plans to elevate the flavors in modern cooking.</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906131500 +0000" stop="20230906133000 +0000">
+    <title>Permata Warisan</title>
+    <desc>Hasrat untuk bercuti diluar negara, suaminya menukar destinasi ke kampung halamannya di Mukah untuk bercuti bersama ibunya. Ibu pula meminta Rossa dan suaminya untuk terus tinggal menjaga warisan mereka.</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906133000 +0000" stop="20230906140000 +0000">
+    <title>Pejalai Kamek Orang</title>
+    <desc>Hosted and narrated by Tony Eusoff, traces locations &amp; stories from people who have heard, experienced and witnessed events right from Brooke Era in 1841 leading up to Sarawak&#x2019;s independence in July 1969</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906140000 +0000" stop="20230906150000 +0000">
+    <title>Ertugrul (S5)</title>
+    <desc>A 13th-century Turkish warrior agrees to fight the enemies of a sultan in exchange for land when a good deed endangers his clan.</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906150000 +0000" stop="20230906153000 +0000">
+    <title>TVS Nightline (L)</title>
+    <desc>Memaparkan laporan peristiwa yang berlaku di seluruh Malaysia dalam bahasa English</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906153000 +0000" stop="20230906160000 +0000">
+    <title>Kediaman Agro</title>
+    <desc>&#x2018;KEDIAMAN AGRO&#x2019; merupakan program dokumentari yang menumpukan kepada teknologi penanaman makanan berskala kecil seperti di kawasan rumah, mahupun mini kebun.</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906160000 +0000" stop="20230906170000 +0000">
+    <title>Empresses In The Palace</title>
+    <desc>A young woman born in Eight Banners' family marries the Emperor of the Qing Dynasty. After surviving through many murderous scandals and betrayals, she prevails as the most powerful woman in the Emperor's harem, the E</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906163000 +0000" stop="20230906170000 +0000">
+    <title>Pertiwi</title>
+    <desc>Dokumentari yang memaparkan kehidupan di perantauan masyarakat Sarawak pelbagai etnik yang merantau ke pelbagai tempat di luar Sarawak; khususnya di Semenanjung Malaysia.</desc>
+  </programme>
+  <programme channel="MYTV122" start="20230906170000 +0000" stop="20230906180000 +0000">
+    <title>Empresses In The Palace</title>
+    <desc>A young woman born in Eight Banners' family marries the Emperor of the Qing Dynasty. After surviving through many murderous scandals and betrayals, she prevails as the most powerful woman in the Emperor's harem, the E</desc>
   </programme>
   <programme channel="MYTV116" start="20230830183000 +0000" stop="20230830193000 +0000">
     <title>Suke Hati</title>
@@ -10255,45 +10435,109 @@
     <title>Suke Celeb</title>
     <desc>Program shopping untuk selebriti menjual produk mereka secara kreatif dan menarik di Platform Suke TV.</desc>
   </programme>
-  <programme channel="MYTV103" start="20230830100000 +0000" stop="20230830110000 +0000">
-    <title>CIK PA TUAN ASH</title>
-    <desc>Ash cuba sedaya upaya memujuk hati Husna semula dengan membuat permintaan daripada  ibunya menyediakan lauk ketam untuk dia makan bersama Husna. Sam dipertemukan dengan ibu bapa Adriana menyuarakan tentang hubungan mereka.</desc>
+  <programme channel="MYTV116" start="20230905183000 +0000" stop="20230905193000 +0000">
+    <title>Suke Hati</title>
+    <desc>Program shopping yang mempromosikan produk SME yang sangat istimewa.</desc>
   </programme>
-  <programme channel="MYTV103" start="20230830110000 +0000" stop="20230830120000 +0000">
-    <title>RAJUK KARINA</title>
-    <desc>Karina tetap berkeras dengan keputusannya, tidak membenarkan Saiful menghampiri Batrisya lagi walaupun Mizan tidak putus menasihati dan memujuknya. Karina kecewa Mizan selalu berhubung dengan Saiful tanpa pengetahuannya.Karina tetap berkeras dengan keputusannya, tidak membenarkan Saiful menghampiri Batrisya lagi walaupun Mizan tidak putus menasihati dan memujuknya. Karina kecewa Mizan selalu berhubung dengan Saiful tanpa pengetahuannya. Anum berang dengar berita itu, tapi dia teruskan lakonannya. Dia mahu Asmah juga memujuk Mahmud dan Syakila supaya mereka membantu Saiful, kerana hubungan Syakila dan Mahmud yang masih baik dengan Karina. Mizan simpati dengan Saiful, kerana dia tahu Saiful ada hak sebagai ayah Batrisya. Pada Mizan sendiri, Karina tak patut menghalang Saiful mendekati Batrisya.</desc>
+  <programme channel="MYTV116" start="20230905193000 +0000" stop="20230905220000 +0000">
+    <title>Suke Celeb</title>
+    <desc>Program shopping untuk selebriti menjual produk mereka secara kreatif dan menarik di Platform Suke TV.</desc>
   </programme>
-  <programme channel="MYTV103" start="20230830120000 +0000" stop="20230830130000 +0000">
-    <title>BULETIN UTAMA ( 2023 )</title>
-    <desc>BULETIN UTAMA ( 2023 )</desc>
+  <programme channel="MYTV116" start="20230905220000 +0000" stop="20230905230000 +0000">
+    <title>Suke Hati</title>
+    <desc>Program shopping yang mempromosikan produk SME yang sangat istimewa.</desc>
   </programme>
-  <programme channel="MYTV103" start="20230830130000 +0000" stop="20230830130200 +0000">
-    <title>MBUZZ 2023</title>
-    <desc>MBUZZ 2023</desc>
+  <programme channel="MYTV116" start="20230905230000 +0000" stop="20230906010000 +0000">
+    <title>Suke Celeb</title>
+    <desc>Program shopping untuk selebriti menjual produk mereka secara kreatif dan menarik di Platform Suke TV.</desc>
   </programme>
-  <programme channel="MYTV103" start="20230830130200 +0000" stop="20230830140000 +0000">
-    <title>FAIL MAHKAMAH</title>
-    <desc>Fail Mahkamah akan membawa penonton mengimbas kembali kronologi kes-kes yang tragik, sensasi dan berprofil tinggi yang pernah mendapat perhatian dan liputan meluas media.</desc>
+  <programme channel="MYTV116" start="20230906010000 +0000" stop="20230906020000 +0000">
+    <title>Suke Hati</title>
+    <desc>Program shopping yang mempromosikan produk SME yang sangat istimewa.</desc>
   </programme>
-  <programme channel="MYTV103" start="20230830140000 +0000" stop="20230830150000 +0000">
-    <title>AKU YANG KAU SAKITI</title>
-    <desc>Bella mula bekerja di syarikat dan Amanda dapat rasa Bella seakan cuba menjauhi dia. Amanda juga geram bila Bella mengarahkan Amanda untuk bekerja di dalam pejabat tanpa perlu menguruskan projek syarikat lagi.Bella mula bekerja di syarikat dan Amanda dapat rasa Bella seakan cuba menjauhi dia. Amanda juga geram bila Bella mengarahkan Amanda untuk bekerja di dalam pejabat tanpa perlu menguruskan projek syarikat lagi. Amanda bergaduh dengan Bella yang dianggap tidak mengenang budi. Selama ini, dia banyak bantu Tn Zaki kukuhkan syarikat namun Bella tidak endahkan kemarahan Amanda. Tn Zaki mula pelik kerana kesihatannya makin merosot. Shahrul mula mendesak Amanda untuk segera berkahwin atau putus tunang terus. Shahrul terkejut bila Amanda memilih untuk putus tunang.</desc>
+  <programme channel="MYTV116" start="20230906020000 +0000" stop="20230906030000 +0000">
+    <title>(L) VC</title>
+    <desc>Program muzik secara langsung, mempersembahkan video muzik paling trend dalam industri.</desc>
   </programme>
-  <programme channel="MYTV103" start="20230830150000 +0000" stop="20230830160000 +0000">
-    <title>STRONG GIRL BONG-SOON</title>
-    <desc>Ibu Boon Soon lebih memilih Min Hyeok berbanding Gook Doo untuk menjaga keselamatan anaknya. Dalam pada itu, Boon Soon masih menyembunyikan kuasa hebatnya serta cuba mengawal emosinya terhadap Min Hyeok.</desc>
+  <programme channel="MYTV116" start="20230906030000 +0000" stop="20230906033000 +0000">
+    <title>Suke Celeb</title>
+    <desc>Program shopping untuk selebriti menjual produk mereka secara kreatif dan menarik di Platform Suke TV.</desc>
   </programme>
-  <programme channel="MYTV103" start="20230830160000 +0000" stop="20230830163000 +0000">
-    <title>NIGHTLINE ( 2023 )</title>
-    <desc>NIGHTLINE ( 2023 )</desc>
+  <programme channel="MYTV116" start="20230906033000 +0000" stop="20230906043000 +0000">
+    <title>(L)Suke Pagi</title>
+    <desc>Rancangan yang berasaskan ala-ala sitcom sambil membincangkan isu-isu semasa dan juga produk-produk baru di pasaran.</desc>
   </programme>
-  <programme channel="MYTV103" start="20230830163000 +0000" stop="20230830173000 +0000">
-    <title>RAJUK KARINA</title>
-    <desc>Karina tetap berkeras dengan keputusannya, tidak membenarkan Saiful menghampiri Batrisya lagi walaupun Mizan tidak putus menasihati dan memujuknya. Karina kecewa Mizan selalu berhubung dengan Saiful tanpa pengetahuannya.Karina tetap berkeras dengan keputusannya, tidak membenarkan Saiful menghampiri Batrisya lagi walaupun Mizan tidak putus menasihati dan memujuknya. Karina kecewa Mizan selalu berhubung dengan Saiful tanpa pengetahuannya. Anum berang dengar berita itu, tapi dia teruskan lakonannya. Dia mahu Asmah juga memujuk Mahmud dan Syakila supaya mereka membantu Saiful, kerana hubungan Syakila dan Mahmud yang masih baik dengan Karina. Mizan simpati dengan Saiful, kerana dia tahu Saiful ada hak sebagai ayah Batrisya. Pada Mizan sendiri, Karina tak patut menghalang Saiful mendekati Batrisya.</desc>
+  <programme channel="MYTV116" start="20230906043000 +0000" stop="20230906050000 +0000">
+    <title>Suke Hati</title>
+    <desc>Program shopping yang mempromosikan produk SME yang sangat istimewa.</desc>
   </programme>
-  <programme channel="MYTV103" start="20230830173000 +0000" stop="20230830183000 +0000">
-    <title>AKU YANG KAU SAKITI</title>
-    <desc>Bella mula bekerja di syarikat dan Amanda dapat rasa Bella seakan cuba menjauhi dia. Amanda juga geram bila Bella mengarahkan Amanda untuk bekerja di dalam pejabat tanpa perlu menguruskan projek syarikat lagi.Bella mula bekerja di syarikat dan Amanda dapat rasa Bella seakan cuba menjauhi dia. Amanda juga geram bila Bella mengarahkan Amanda untuk bekerja di dalam pejabat tanpa perlu menguruskan projek syarikat lagi. Amanda bergaduh dengan Bella yang dianggap tidak mengenang budi. Selama ini, dia banyak bantu Tn Zaki kukuhkan syarikat namun Bella tidak endahkan kemarahan Amanda. Tn Zaki mula pelik kerana kesihatannya makin merosot. Shahrul mula mendesak Amanda untuk segera berkahwin atau putus tunang terus. Shahrul terkejut bila Amanda memilih untuk putus tunang.</desc>
+  <programme channel="MYTV116" start="20230906050000 +0000" stop="20230906053000 +0000">
+    <title>Suke Celeb</title>
+    <desc>Program shopping untuk selebriti menjual produk mereka secara kreatif dan menarik di Platform Suke TV.</desc>
+  </programme>
+  <programme channel="MYTV116" start="20230906053000 +0000" stop="20230906060000 +0000">
+    <title>Berita Latah</title>
+    <desc>Menampilkan pelatah-pelatah terkenal yang membacakan berita sambil diusik oleh efek khas yang mencetuskan mereka melatah.</desc>
+  </programme>
+  <programme channel="MYTV116" start="20230906060000 +0000" stop="20230906070000 +0000">
+    <title>Suke Celeb</title>
+    <desc>Program shopping untuk selebriti menjual produk mereka secara kreatif dan menarik di Platform Suke TV.</desc>
+  </programme>
+  <programme channel="MYTV116" start="20230906070000 +0000" stop="20230906080000 +0000">
+    <title>Suke Hati</title>
+    <desc>Program shopping yang mempromosikan produk SME yang sangat istimewa.</desc>
+  </programme>
+  <programme channel="MYTV116" start="20230906080000 +0000" stop="20230906090000 +0000">
+    <title>Suke Celeb</title>
+    <desc>Program shopping selebriti menjual eksklusif produk sempena Ramadan dan Syawal di Platform Suke TV.</desc>
+  </programme>
+  <programme channel="MYTV116" start="20230906090000 +0000" stop="20230906100000 +0000">
+    <title>(L)Hawa</title>
+    <desc>Rancangan untuk semua golongan wanita dengan tips dari segi hubungan kekeluargaan, perkembangan karier, kesihatan dan penghiasan diri.</desc>
+  </programme>
+  <programme channel="MYTV116" start="20230906100000 +0000" stop="20230906103000 +0000">
+    <title>Berita Latah</title>
+    <desc>Menampilkan pelatah-pelatah terkenal yang membacakan berita sambil diusik oleh efek khas yang mencetuskan mereka melatah.</desc>
+  </programme>
+  <programme channel="MYTV116" start="20230906103000 +0000" stop="20230906110000 +0000">
+    <title>Suke Celeb</title>
+    <desc>Program shopping untuk selebriti menjual produk mereka secara kreatif dan menarik di Platform Suke TV.</desc>
+  </programme>
+  <programme channel="MYTV116" start="20230906110000 +0000" stop="20230906113000 +0000">
+    <title>Sejarah Dari Sejadah</title>
+    <desc>Kisah Sejarah para Rasul dan Anbiya Islam.</desc>
+  </programme>
+  <programme channel="MYTV116" start="20230906113000 +0000" stop="20230906120000 +0000">
+    <title>Makan Tepi Lori</title>
+    <desc>Rancangan dihoskan oleh Wanie Ooi ini membawa anda menikmati makanan dari Food Truck di sekitar Lembah Klang</desc>
+  </programme>
+  <programme channel="MYTV116" start="20230906120000 +0000" stop="20230906130000 +0000">
+    <title>Suke Celeb</title>
+    <desc>Program shopping untuk selebriti menjual produk mereka secara kreatif dan menarik di Platform Suke TV.</desc>
+  </programme>
+  <programme channel="MYTV116" start="20230906130000 +0000" stop="20230906133000 +0000">
+    <title>Berita Latah</title>
+    <desc>Menampilkan pelatah-pelatah terkenal yang membacakan berita sambil diusik oleh efek khas yang mencetuskan mereka melatah.</desc>
+  </programme>
+  <programme channel="MYTV116" start="20230906133000 +0000" stop="20230906140000 +0000">
+    <title>Suke Celeb</title>
+    <desc>Program shopping untuk selebriti menjual produk mereka secara kreatif dan menarik di Platform Suke TV.</desc>
+  </programme>
+  <programme channel="MYTV116" start="20230906140000 +0000" stop="20230906150000 +0000">
+    <title>Suke Hati</title>
+    <desc>Program shopping yang mempromosikan produk SME yang sangat istimewa.</desc>
+  </programme>
+  <programme channel="MYTV116" start="20230906150000 +0000" stop="20230906160000 +0000">
+    <title>(L) VC</title>
+    <desc>Program muzik secara langsung, mempersembahkan video muzik paling trend dalam industri.</desc>
+  </programme>
+  <programme channel="MYTV116" start="20230906160000 +0000" stop="20230906170000 +0000">
+    <title>Suke Hati</title>
+    <desc>Program shopping yang mempromosikan produk SME yang sangat istimewa.</desc>
+  </programme>
+  <programme channel="MYTV116" start="20230906170000 +0000" stop="20230906183000 +0000">
+    <title>Suke Celeb</title>
+    <desc>Program shopping untuk selebriti menjual produk mereka secara kreatif dan menarik di Platform Suke TV.</desc>
   </programme>
   <programme channel="MYTV103" start="20230830183000 +0000" stop="20230830193000 +0000">
     <title>SAAT KAU TAKLUK CINTA INI</title>
@@ -10835,46 +11079,6 @@
     <title>WOW SHOP</title>
     <desc>WOW SHOP</desc>
   </programme>
-  <programme channel="MYTV112" start="20230830090000 +0000" stop="20230830110000 +0000">
-    <title>TIMECOP</title>
-    <desc>Max Walker, seorang polis yang telah ditugaskan ke Suruhanjaya Penguatkuasaan iaitu sebuah agensi penguatkuasaan undang-undang baharu untuk melakukan siaisatan terhadap Senator Aaron.</desc>
-  </programme>
-  <programme channel="MYTV112" start="20230830110000 +0000" stop="20230830115700 +0000">
-    <title>DENDAM AURORA</title>
-    <desc>Kisah tentang Aurora Abdullah yang dipenjarakan selama 8 tahun di atas kesalahan membunuh Dato' Hamzah. Aurora kemudiannya dibebaskan lebih awal dari waktu ditetapkan kerana berkelakuan baik.</desc>
-  </programme>
-  <programme channel="MYTV112" start="20230830115700 +0000" stop="20230830123000 +0000">
-    <title>BERITA 7:57 (L)</title>
-    <desc>Berita 7:57  memaparkan berita-berita terkini dan mengutamakan kebajikan rakyat selari dengan tagline Rakyat Keutamaan Kami.</desc>
-  </programme>
-  <programme channel="MYTV112" start="20230830123000 +0000" stop="20230830150000 +0000">
-    <title>PANGLIMA BADOL</title>
-    <desc>Mengisahkan Badol seorang budak pulau yang rajin membantu ibunya sejak kecil lagi. Pada suatu hari, dia ingin merantau untuk mencari pengalaman seperti yang dilakukan oleh ayahnya dulu.</desc>
-  </programme>
-  <programme channel="MYTV112" start="20230830150000 +0000" stop="20230830153000 +0000">
-    <title>MISTERI JENAZAH</title>
-    <desc>Misteri Jenazah merupakan siri drama 13 episod 2019, siri ini adalah spin-off kepada drama Tanah Kubur dan dibintangi oleh Kazar sebagai Lebai Latif.</desc>
-  </programme>
-  <programme channel="MYTV112" start="20230830153000 +0000" stop="20230830160000 +0000">
-    <title>ONE TWO HANTU 2</title>
-    <desc>One Two Hantu mengisahkan tentang Buragas, Hangit , Merah dan Chom-Bi yang akan menghasut manusia untuk melakukan kejahatan.</desc>
-  </programme>
-  <programme channel="MYTV112" start="20230830160000 +0000" stop="20230830163000 +0000">
-    <title>LOT 69</title>
-    <desc>Mengisahkan tentang gelagat dan karenah lima orang peniaga di Pasar Besar Kuala Lumpur. Konflik terjadi apabiloa tapak pasar mereka bakal diambil semula oleh tuan tanah.</desc>
-  </programme>
-  <programme channel="MYTV112" start="20230830163000 +0000" stop="20230830170000 +0000">
-    <title>SKETSA SKETSO</title>
-    <desc>Sebuah komedi berbentuk sketsa yang mengandungi kapsul-kapsul lawak dipisahkan oleh tema-tema yang berkait rapat dengan masyarakat yang berlaku dalam kehidupan seharian.</desc>
-  </programme>
-  <programme channel="MYTV112" start="20230830170000 +0000" stop="20230830180000 +0000">
-    <title>YOU KAT&#x2026;?</title>
-    <desc>Drama yang mengisahkan seorang suami yang menjadi peneraju rumah tangga bernama Iskandar telah pun berkahwin dengan Maisarah namun hatinya mahu berkahwin dengan wanita yang berjaya mencuri hatinya.</desc>
-  </programme>
-  <programme channel="MYTV112" start="20230830180000 +0000" stop="20230830183000 +0000">
-    <title>BERITA KE?</title>
-    <desc>Sebuah variety show yang melakukan spoof atau satira terhadap berita-berita sebenar dan semasa dengan cara yang menghiburkan.  Terdapat 2 pembaca berita yang terdiri daripada kalangan artis.</desc>
-  </programme>
   <programme channel="MYTV112" start="20230830183000 +0000" stop="20230830193000 +0000">
     <title>OHSEM</title>
     <desc>Ohsem merupakan sebuah rancangan sensasi yang akan mengupas segala isu terkini dan hangat tentang industri hiburan tanah air.</desc>
@@ -10903,13 +11107,29 @@
     <title>RELAX! JANGAN GADUH</title>
     <desc>Sebuah rancangan bual bicara yang akan mendebatkan tentang hal-hal agama dan isu-isu semasa yang berlaku dalam kehidupan seharian yang di adakan secara debat.</desc>
   </programme>
-  <programme channel="MYTV112" start="20230830230000 +0000" stop="20230831020000 +0000">
+  <programme channel="MYTV112" start="20230830230000 +0000" stop="20230830233000 +0000">
+    <title>KEKASIH AWAL &amp; AKHIR</title>
+    <desc>Seorang Ustaz akan menceritakan tentang 25 cerita-cerita yang menarik dari petikan sirah yang berkaitan tentang kisah-kisah rasul</desc>
+  </programme>
+  <programme channel="MYTV112" start="20230830233000 +0000" stop="20230831003000 +0000">
+    <title>LAFAZKAN KALIMAH CINTAMU</title>
+    <desc>Mengisahkan tentang suka dan duka kehidupan Tengku Aqilah yang mengharapkan kasih bapanya dan cinta kekasihnya, Tengku Ryan.</desc>
+  </programme>
+  <programme channel="MYTV112" start="20230831003000 +0000" stop="20230831010000 +0000">
+    <title>KASYAF ELENA</title>
+    <desc>Kasyaf Elena terlibat dalam kemalangan menyebabkan dia  koma di hospital. Bangun dari koma, Kasyaf Elena dapati dirinya mempunyai deria ke enam dan dia boleh melihat roh orang yang sudah meninggal dunia.</desc>
+  </programme>
+  <programme channel="MYTV112" start="20230831010000 +0000" stop="20230831030000 +0000">
     <title>SAMBUTAN HARI KEBANGSAAN 2023 (L)</title>
     <desc>Siaran Langsung Sambutan Hari Kebangsaan 2023</desc>
   </programme>
-  <programme channel="MYTV112" start="20230831020000 +0000" stop="20230831040000 +0000">
-    <title>ADIWIRAKU</title>
-    <desc>Berdasarkan dari satu kisah benar, filem itu mengisahkan tentang kumpulan ceramah dari SMK Pinang Tunggal di Kedah, yang memenangi pertandingan perbahasan pada tahun 2015.</desc>
+  <programme channel="MYTV112" start="20230831030000 +0000" stop="20230831033000 +0000">
+    <title>LESUNG VS BLENDER</title>
+    <desc>Lesung Vs Blender merupakan program masakan yang menyajikan masakan moden dan tradisional. Terdapat dua elemen utama yang mewakili masakan tersebut iaitu blender dan lesung batu</desc>
+  </programme>
+  <programme channel="MYTV112" start="20230831033000 +0000" stop="20230831040000 +0000">
+    <title>ON X ON</title>
+    <desc>Sebuah program pertandingan pertunjukkan bakat yang menampilkan penyanyi, penari, pelawak, bermain magik dan segala jenis persembahan pentas dari semua peringkat umur</desc>
   </programme>
   <programme channel="MYTV112" start="20230831040000 +0000" stop="20230831043000 +0000">
     <title>BERITA 7:57</title>
@@ -10931,9 +11151,13 @@
     <title>NAAGIN 3</title>
     <desc>Naagini membawa kembali legasi kuasa, semangat dan dendamnya.Perkahwinan Icchadhari Naag dan Naagini dicemari oleh sekumpulan anak muda yang mabuk. Kekejaman itu mengakibatkan kematian Naag</desc>
   </programme>
-  <programme channel="MYTV112" start="20230831090000 +0000" stop="20230831110000 +0000">
+  <programme channel="MYTV112" start="20230831090000 +0000" stop="20230831103000 +0000">
     <title>BRAVO 5</title>
     <desc>Mengisahkan lima anggota Komando (Rejimen Gerak Khas) ditugaskan mengesan kedudukan gerila komunis yang merancang menguasai kedudukan strategik kawasan tengah Semenanjung Malaysia</desc>
+  </programme>
+  <programme channel="MYTV112" start="20230831103000 +0000" stop="20230831110000 +0000">
+    <title>GO TRAVEL</title>
+    <desc>Program ini mengisahkan beberapa orang selebriti membawa para penonton menerokai tempat menarik yang menjadi tumpuan pelancong di 10 buah negara Asean.</desc>
   </programme>
   <programme channel="MYTV112" start="20230831110000 +0000" stop="20230831115700 +0000">
     <title>DENDAM AURORA</title>
@@ -10958,14 +11182,6 @@
   <programme channel="MYTV112" start="20230831153000 +0000" stop="20230831160000 +0000">
     <title>ONE TWO HANTU 2</title>
     <desc>One Two Hantu mengisahkan tentang Buragas, Hangit , Merah dan Chom-Bi yang akan menghasut manusia untuk melakukan kejahatan.</desc>
-  </programme>
-  <programme channel="MYTV112" start="20230831160000 +0000" stop="20230831163000 +0000">
-    <title>LOT 69</title>
-    <desc>Mengisahkan tentang gelagat dan karenah lima orang peniaga di Pasar Besar Kuala Lumpur. Konflik terjadi apabiloa tapak pasar mereka bakal diambil semula oleh tuan tanah.</desc>
-  </programme>
-  <programme channel="MYTV112" start="20230831163000 +0000" stop="20230831170000 +0000">
-    <title>SKETSA SKETSO</title>
-    <desc>Sebuah komedi berbentuk sketsa yang mengandungi kapsul-kapsul lawak dipisahkan oleh tema-tema yang berkait rapat dengan masyarakat yang berlaku dalam kehidupan seharian.</desc>
   </programme>
   <programme channel="MYTV112" start="20230831180000 +0000" stop="20230831183000 +0000">
     <title>BERITA KE?</title>
@@ -11383,42 +11599,6 @@
     <title>GO EXPLORE</title>
     <desc>Go Explore adalah sebuah siri travelog yang membawa anda menerokai lokasi menarik dengan kerjasama (FINAS) dan dihoskan oleh model terkenal Hannah Tan.</desc>
   </programme>
-  <programme channel="MYTV108" start="20230830100000 +0000" stop="20230830105800 +0000">
-    <title>IN SPITE OF THE STRONG WIND</title>
-    <desc>Tang Chen saw that everyone was involved in this matter to varying degrees, so he decided to investigate the matter alone, and no one else should participate. Unexpectedly, such a decision was strongly opposed byTang Chen saw that everyone was involved in this matter to varying degrees, so he decided to investigate the matter alone, and no one else should participate. Unexpectedly, such a decision was strongly opposed by Sha Zhou and Zhu Ran. To help each other to the end, I also hope to prove myself through this incident. Everyone twisted together again to analyze the reasons for the incident to be revealed. After repeated identification of the recordings, Tang Chen and Sha Zhou finally discovered that the mysterious man was none other than Kang Li.</desc>
-  </programme>
-  <programme channel="MYTV108" start="20230830105800 +0000" stop="20230830110000 +0000">
-    <title>LIVING DELIGHT HIGHLIGHTS (2023)</title>
-    <desc>LIVING DELIGHT HIGHLIGHTS (2023)</desc>
-  </programme>
-  <programme channel="MYTV108" start="20230830110000 +0000" stop="20230830115800 +0000">
-    <title>A PERFECT MAN</title>
-    <desc>Yat-cheng takes Chi-ching home in his car. He seizes this chance to learn about her background. Yat-cheng swerves and brakes as some dog happens to rush out onto the road. Chi-ching has some minor injury and then just leaves.Yat-cheng takes Chi-ching home in his car. He seizes this chance to learn about her background. Yat-cheng swerves and brakes as some dog happens to rush out onto the road. Chi-ching has some minor injury and then just leaves. Yat-cheng is dumbfounded. Yat-cheng asks his colleague Fu Tsun, who handles intelligence, to look into Ding-tin&#x2019;s blackmail letter. His investigation leads him to a restaurant, and he finds out the letter was sent from &#x2026; Yat-cheng and Chung-chau find out the culprit and the truth behind the blackmail incident.</desc>
-  </programme>
-  <programme channel="MYTV108" start="20230830115800 +0000" stop="20230830120000 +0000">
-    <title>8 E-NEWS HIGHLIGHTS 2023</title>
-    <desc>8 E-NEWS HIGHLIGHTS 2023</desc>
-  </programme>
-  <programme channel="MYTV108" start="20230830120000 +0000" stop="20230830130000 +0000">
-    <title>MANDARIN NEWS ( 2023 )</title>
-    <desc>MANDARIN NEWS ( 2023 )</desc>
-  </programme>
-  <programme channel="MYTV108" start="20230830130000 +0000" stop="20230830140000 +0000">
-    <title>THE LONGEST PROMISE</title>
-    <desc>The arrogant son of Kong-sang Shiying and the enthusiastic and righteous red clan princess Zhu Yan had been predicted to have a tragic fate because of the kindness of a flower.However they have been together as a master aThe arrogant son of Kong-sang Shiying and the enthusiastic and righteous red clan princess Zhu Yan had been predicted to have a tragic fate because of the kindness of a flower.However they have been together as a master and apprentice for three years. Guixie rises and Kongsang is about to die. Shiying mistakenly believes that Zhiyuan, who grew up with Zhu Yan, is the Sea Emperor, so he sealed Zhiyuan. In the end, Zhu Yan pierced the Jade Bone Spur to Shi Ying as predicted. Nevertheless, fate changed as early as the day it was spied on.</desc>
-  </programme>
-  <programme channel="MYTV108" start="20230830140000 +0000" stop="20230830150000 +0000">
-    <title>THE MEMOIR OF MAJIE</title>
-    <desc>Yu Hong mencintai Chen Hui walaupun dia tahu yang dia adalah seorang MAJIE.</desc>
-  </programme>
-  <programme channel="MYTV108" start="20230830150000 +0000" stop="20230830160000 +0000">
-    <title>THE MEMOIR OF MAJIE</title>
-    <desc>Shui Yue menolak cinta Jin Gang walaupun dia juga mempunyai perasaan yang sama.</desc>
-  </programme>
-  <programme channel="MYTV108" start="20230830160000 +0000" stop="20230830170000 +0000">
-    <title>THE GOOD FIGHT</title>
-    <desc>While Yichen, Shuya and Zhengbin play their favourite childhood arcade basketball machine, it feels like they are back to their happier and carefree days, but without Yifeng. Yifeng&#x2019;s death anniversary is approaching and theWhile Yichen, Shuya and Zhengbin play their favourite childhood arcade basketball machine, it feels like they are back to their happier and carefree days, but without Yifeng. Yifeng&#x2019;s death anniversary is approaching and the trio decide to pay their respects to him together. On the day itself, while Dongshan is secretly paying respects to Yifeng, Yichen and the rest suddenly appear</desc>
-  </programme>
   <programme channel="MYTV108" start="20230830170000 +0000" stop="20230830230000 +0000">
     <title>8FM @ 8TV ( 2023 )</title>
     <desc>8FM @ 8TV ( 2023 )</desc>
@@ -11807,42 +11987,6 @@
     <title>8FM @ 8TV ( 2023 )</title>
     <desc>8FM @ 8TV ( 2023 )</desc>
   </programme>
-  <programme channel="MYTV107" start="20230830093000 +0000" stop="20230830103000 +0000">
-    <title>MENENGAH ATAS 2022</title>
-    <desc>Program pendidikan maya melangkaui bilik darjah untuk semua peringkat persekolahan. Dikendalikan bersama guru-guru berpengalaman, pembelajaran kini lebih menyeronokkan bila-bila masa dan di mana jua.</desc>
-  </programme>
-  <programme channel="MYTV107" start="20230830103000 +0000" stop="20230830113000 +0000">
-    <title>BADAN BERUNIFORM 2022 Q3 Q4</title>
-    <desc>This program provides information on the objectives and content of co-curricular activities in schools</desc>
-  </programme>
-  <programme channel="MYTV107" start="20230830113000 +0000" stop="20230830123000 +0000">
-    <title>MENENGAH RENDAH 2022</title>
-    <desc>Program pendidikan maya melangkaui bilik darjah untuk semua peringkat persekolahan. Dikendalikan bersama guru-guru berpengalaman, pembelajaran kini lebih menyeronokkan bila-bila masa dan di mana jua.</desc>
-  </programme>
-  <programme channel="MYTV107" start="20230830123000 +0000" stop="20230830133000 +0000">
-    <title>SUKSES 2022 Q3 Q4</title>
-    <desc>Program yang membincangkan teknik-teknik yang boleh diguna pakai dalam menjawab soalan bersama penampilan khas guru berpengalaman.</desc>
-  </programme>
-  <programme channel="MYTV107" start="20230830133000 +0000" stop="20230830140000 +0000">
-    <title>PBD 2022 Q3 Q4</title>
-    <desc>PBD menyediakan maklumat tentang Pentaksiran Bilik Darjah (PBD). PBD merupakan penilaian berterusan dalam sesi pengajaran dan pembelajaran untuk mendapatkan maklumat tentang perkembangan, kemajuan, kebolehan dan pencapaian mur</desc>
-  </programme>
-  <programme channel="MYTV107" start="20230830140000 +0000" stop="20230830143000 +0000">
-    <title>SUMATIF 2022 Q3 Q4</title>
-    <desc>Summative assessment provides information on the format and instruments in the Academic Session Final Test for each subject.</desc>
-  </programme>
-  <programme channel="MYTV107" start="20230830143000 +0000" stop="20230830150000 +0000">
-    <title>JALAN-JALAN MAKAN ANGIN 2019</title>
-    <desc>A travelogue featuring two guys Atu Zero &amp; Akhmal Nazri on a journey to search for unique accommodations &amp; hideouts around Malaysia that might just be your next holiday destination!</desc>
-  </programme>
-  <programme channel="MYTV107" start="20230830150000 +0000" stop="20230830160000 +0000">
-    <title>WOW SHOP</title>
-    <desc>WOW SHOP</desc>
-  </programme>
-  <programme channel="MYTV107" start="20230830160000 +0000" stop="20230830230000 +0000">
-    <title>HOTFM @ DIDIKTV KPM (2023)</title>
-    <desc>HOTFM @ DIDIKTV KPM (2023)</desc>
-  </programme>
   <programme channel="MYTV107" start="20230830230000 +0000" stop="20230831013000 +0000">
     <title>HOTFM @ DIDIKTV KPM (2023)</title>
     <desc>HOTFM @ DIDIKTV KPM (2023)</desc>
@@ -12182,54 +12326,6 @@
   <programme channel="MYTV107" start="20230903160000 +0000" stop="20230903230000 +0000">
     <title>HOTFM @ DIDIKTV KPM (2023)</title>
     <desc>HOTFM @ DIDIKTV KPM (2023)</desc>
-  </programme>
-  <programme channel="MYTV109" start="20230830100000 +0000" stop="20230830103000 +0000">
-    <title>EJEN ALI (SS 1)</title>
-    <desc>MISI : COMOT  Ali terjumpa seekor kucing yang comot dan mengingatkannya kepada kucing kesayangannya dahulu iaitu Labu. Setelah membersihkan kucing itu diberi gelaran Comot.  Comot kemudian telah melarikan Iris.</desc>
-  </programme>
-  <programme channel="MYTV109" start="20230830103000 +0000" stop="20230830103300 +0000">
-    <title>LITTLE AMMAR SEASON 1 (PART 2)</title>
-    <desc>Little Ammar is a short 3 minute animated edutainment series of nursery rhymes, learning videos, zikirs, and lullabies for Muslim children showcasing the life of a toddler named Ammar; full of his daily activit</desc>
-  </programme>
-  <programme channel="MYTV109" start="20230830103300 +0000" stop="20230830110000 +0000">
-    <title>BOBOIBOY GALAXY (SS1)</title>
-    <desc>BoBoiBoy, Gopal dan Fang masih di planet Planet Dargha'ya dalam misi untuk menghantar dobi kepada penerima misteri. Mereka diserang oleh Adu Du yang dipukau oleh seekor katak.</desc>
-  </programme>
-  <programme channel="MYTV109" start="20230830110000 +0000" stop="20230830115000 +0000">
-    <title>BULETIN TV9 2023</title>
-    <desc>BULETIN TV9 2023</desc>
-  </programme>
-  <programme channel="MYTV109" start="20230830115000 +0000" stop="20230830115100 +0000">
-    <title>KAPSUL MASA</title>
-    <desc>Sebuah rancangan dokumentari sejarah memaparkan kisah-kisah kemerdekaan dan legenda tanah air Malaysia. Episod ini akan membawakan sejarah LEMBAGA KEBERSIHAN KUALA LUMPUR.</desc>
-  </programme>
-  <programme channel="MYTV109" start="20230830115100 +0000" stop="20230830123000 +0000">
-    <title>SEINDAH 7 WARNA PELANGI</title>
-    <desc>Andika tidak berputus asa memujuk Aira tetapi hati Aira tertutup dan mahu balik semula ke Indonesia. Sebuah tragedi menimpa Aira dan Arjuna yang sedang menuju ke KLIA menyebabkan kedua-dua keluarga Aira dan Arjuna berAndika tidak berputus asa memujuk Aira tetapi hati Aira tertutup dan mahu balik semula ke Indonesia. Sebuah tragedi menimpa Aira dan Arjuna yang sedang menuju ke KLIA menyebabkan kedua-dua keluarga Aira dan Arjuna bertelagah. Andika sangat tertekan dengan apa yang berlaku dan sangat bimbang akan kehilangan orang-orang yang disayanginya.</desc>
-  </programme>
-  <programme channel="MYTV109" start="20230830123000 +0000" stop="20230830143000 +0000">
-    <title>MUMMY: TOMB OF THE DRAGON EMPEROR, THE</title>
-    <desc>After being asked to visit China with a precious relic, which can bring people back from the dead, Alex O'Connell discovers an ancient tomb and accidentally resurrects a mummy.</desc>
-  </programme>
-  <programme channel="MYTV109" start="20230830143000 +0000" stop="20230830153000 +0000">
-    <title>MANTERA ANJASMORO</title>
-    <desc>Ibu bapa Zahid menasihatinya tidak menceraikan Sabrina kerana cucu yang bakal lahir. Sedikit sebanyak Sabrina termakan hasutan Ramona dan mula yakin hanya mantera jampi serapah saja yang boleh tundukkan lelaki macam Zahid.Ibu bapa Zahid menasihatinya tidak menceraikan Sabrina kerana cucu yang bakal lahir. Sedikit sebanyak Sabrina termakan hasutan Ramona dan mula yakin hanya mantera jampi serapah saja yang boleh tundukkan lelaki macam Zahid. Kini Zahid jarang pulang ke rumah, bomoh Ramona mengingatkan Sabrina menggunakan minyak jampi dengan yakin setiap hari.</desc>
-  </programme>
-  <programme channel="MYTV109" start="20230830153000 +0000" stop="20230830155900 +0000">
-    <title>SEISMIK TV: SAMBUNG LAGU ITU!</title>
-    <desc>Episod ini memaparkan 3 pasangan bersaing untuk menyambung lirik lagu yang pernah dipopularkan oleh penyanyi popular tanah air berentak Balada. Mereka juga perlu meneka penyanyi dan tajuk lagu tersebut.Episod ini memaparkan 3 pasangan bersaing untuk menyambung lirik lagu yang pernah dipopularkan oleh penyanyi popular tanah air berentak Balada. Mereka juga perlu meneka penyanyi dan tajuk lagu tersebut.    Sambung Lagu Itu! Sebuah rancangan 'game show' menampilkan tetamu jemputan untuk meneka lagu dan kemudian dikehendaki menyambung lirik yang betul. Setiap episod akan menampilkan edisi lagu yang berbeza.</desc>
-  </programme>
-  <programme channel="MYTV109" start="20230830155900 +0000" stop="20230830160000 +0000">
-    <title>KAPSUL MASA</title>
-    <desc>Sebuah rancangan dokumentari sejarah memaparkan kisah-kisah kemerdekaan dan legenda tanah air Malaysia. Episod ini akan membawakan sejarah LEMBAGA KEBERSIHAN KUALA LUMPUR.</desc>
-  </programme>
-  <programme channel="MYTV109" start="20230830160000 +0000" stop="20230830170000 +0000">
-    <title>WOW SHOP</title>
-    <desc>WOW SHOP</desc>
-  </programme>
-  <programme channel="MYTV109" start="20230830170000 +0000" stop="20230830183000 +0000">
-    <title>SI KIJANG MERAH</title>
-    <desc>Amar merupakan peminat tegar pasukan bolasepak Kelantan, dia juga pemain penyerang pasukan bolasepak di sekolahnya. Akibat kecederaan, Amar tidak dipilih bermain dan digantikan dengan Adib, rakan dan jiran barunya.Amar merupakan peminat tegar pasukan bolasepak Kelantan, dia juga pemain penyerang pasukan bolasepak di sekolahnya. Akibat kecederaan, Amar tidak dipilih bermain dan digantikan dengan Adib, rakan dan jiran barunya. Permusuhan bermula apabila Izati,  rakan perempuannya mula rapat dengan Adib. Ditambah pula dengan hasutan Nik dan Zaki yang mengapi-apikan Amar sehingga berlaku pergaduhan.</desc>
   </programme>
   <programme channel="MYTV109" start="20230830183000 +0000" stop="20230830193000 +0000">
     <title>SPA Q</title>
@@ -12782,38 +12878,6 @@
   <programme channel="MYTV109" start="20230903213000 +0000" stop="20230903223000 +0000">
     <title>MY #QURANTIME 2.0</title>
     <desc>Saksikan My#Qurantime 2.0 setiap hari di TV9, membawa misi untuk meningkatkan penghayatan solat, memahami dan menghafal al-Quran serta membina tabiat Infak.</desc>
-  </programme>
-  <programme channel="MYTV726" start="20230830100000 +0000" stop="20230830101500 +0000">
-    <title>Playlist lagu</title>
-    <desc>Susunan lagu-lagu</desc>
-  </programme>
-  <programme channel="MYTV726" start="20230830101500 +0000" stop="20230830103000 +0000">
-    <title>Woye Kito (Ulangan)</title>
-    <desc>Sketsa Lawak Wayang Kulit Yang Berunsurkan Nasihat</desc>
-  </programme>
-  <programme channel="MYTV726" start="20230830103000 +0000" stop="20230830110000 +0000">
-    <title>Nok Kabo Nih</title>
-    <desc>Perkongsian loghat dan dialek pantai timur dan  Perkongsian loghat tiga negeri bersama Troopers Manis FM</desc>
-  </programme>
-  <programme channel="MYTV726" start="20230830110000 +0000" stop="20230830113000 +0000">
-    <title>Playlist lagu</title>
-    <desc>Playlist lagu nasyid &amp; kerohanian</desc>
-  </programme>
-  <programme channel="MYTV726" start="20230830113000 +0000" stop="20230830120000 +0000">
-    <title>Kuliah Maghrib Bersama Dato&#x2019; Dr Abd Basit Abd Rahman</title>
-    <desc>Perkongsian Kuliah Maghrib yang mengupas mengenai Tafsir Al-Quran kitab Pimpinan Ar-Rahman</desc>
-  </programme>
-  <programme channel="MYTV726" start="20230830120000 +0000" stop="20230830130000 +0000">
-    <title>Manis Check-In</title>
-    <desc>Perkongsian  lokasi pendengar</desc>
-  </programme>
-  <programme channel="MYTV726" start="20230830130000 +0000" stop="20230830160000 +0000">
-    <title>Chill Malam&#xA0;</title>
-    <desc>Perkongsian cerita semasa bersama Pendengar</desc>
-  </programme>
-  <programme channel="MYTV726" start="20230830160000 +0000" stop="20230830220000 +0000">
-    <title>Playlist lagu</title>
-    <desc>Playlist lagu -lagu hits terbaik</desc>
   </programme>
   <programme channel="MYTV726" start="20230830220000 +0000" stop="20230830223000 +0000">
     <title>Bacaan Ayat Suci Al Quran</title>
@@ -13371,33 +13435,121 @@
     <title>Chill Malam&#xA0;</title>
     <desc>Perkongsian cerita semasa bersama Pendengar</desc>
   </programme>
-  <programme channel="MYTV105" start="20230830094500 +0000" stop="20230830102500 +0000">
-    <title>See The Future with Planet EP5</title>
-    <desc>See The Future with Planet EP5</desc>
+  <programme channel="MYTV726" start="20230905160000 +0000" stop="20230905220000 +0000">
+    <title>Playlist lagu</title>
+    <desc>Playlist lagu-lagu hits terbaik</desc>
   </programme>
-  <programme channel="MYTV105" start="20230830102500 +0000" stop="20230830110000 +0000">
-    <title>See The Future with LINE App EP6</title>
-    <desc>See The Future with LINE App EP6</desc>
+  <programme channel="MYTV726" start="20230905220000 +0000" stop="20230905223000 +0000">
+    <title>Bacaan Ayat Suci Al Quran</title>
+    <desc>Bacaan Ayat Al-Quran Terjemahan</desc>
   </programme>
-  <programme channel="MYTV105" start="20230830110000 +0000" stop="20230830124500 +0000">
-    <title>Braven</title>
-    <desc>Braven</desc>
+  <programme channel="MYTV726" start="20230905223000 +0000" stop="20230905224000 +0000">
+    <title>Kuliah Subuh Bersama Prof Madya Dr. Mohd Sukki Othman</title>
+    <desc>Tazkirah Ringkas Mengenai Isu Semasa Bersama Prof Madya Dr. Mohd Sukki Othman</desc>
   </programme>
-  <programme channel="MYTV105" start="20230830124500 +0000" stop="20230830142500 +0000">
-    <title>Office Uprising</title>
-    <desc>Office Uprising</desc>
+  <programme channel="MYTV726" start="20230905224000 +0000" stop="20230905231500 +0000">
+    <title>Achu Ghoyak</title>
+    <desc>Rewind Berita Viral</desc>
   </programme>
-  <programme channel="MYTV105" start="20230830142500 +0000" stop="20230830150500 +0000">
-    <title>See The Future with Planet EP5</title>
-    <desc>See The Future with Planet EP5</desc>
+  <programme channel="MYTV726" start="20230905231500 +0000" stop="20230905233000 +0000">
+    <title>Kak We Senah</title>
+    <desc>Sketsa wayang kulit berkaitan dengan cerita semasa</desc>
   </programme>
-  <programme channel="MYTV105" start="20230830150500 +0000" stop="20230830160000 +0000">
-    <title>See The Future with LINE App EP6</title>
-    <desc>See The Future with LINE App EP6</desc>
+  <programme channel="MYTV726" start="20230905233000 +0000" stop="20230905235000 +0000">
+    <title>Resolusi Hadith Bersama Ustaz Ahmad Shukri Yusoff</title>
+    <desc>Siri Motivasi Ringkas Mengenai Motivasi Diri, Keluarga Dan Segala Aspek Kehidupan Seharian Dalam Islam</desc>
   </programme>
-  <programme channel="MYTV105" start="20230830160000 +0000" stop="20230830180000 +0000">
-    <title>My Mr. Right</title>
-    <desc>My Mr. Right</desc>
+  <programme channel="MYTV726" start="20230905235000 +0000" stop="20230906000500 +0000">
+    <title>Cerita Ghato Ghiti&#xA0;</title>
+    <desc>Perkongsian Dan Kupasan Info &#x2013; Info Terkini Luar Negara</desc>
+  </programme>
+  <programme channel="MYTV726" start="20230906000500 +0000" stop="20230906010000 +0000">
+    <title>Arena@Manis</title>
+    <desc>Perkembangan Terkini Dunia Sukan Tanah Air Dan Luar Negara</desc>
+  </programme>
+  <programme channel="MYTV726" start="20230906010000 +0000" stop="20230906011500 +0000">
+    <title>Buletin Manis &amp; Buletin Darul Iman</title>
+    <desc>Laporan Berita Utama Nasional , Luar Negara serta  Laporan Berita Terengganu</desc>
+  </programme>
+  <programme channel="MYTV726" start="20230906011500 +0000" stop="20230906013000 +0000">
+    <title>Inspirasi Manis</title>
+    <desc>Perkongsian pengalaman kisah kejayaan individu yang boleh dijadikan inspirasi</desc>
+  </programme>
+  <programme channel="MYTV726" start="20230906014500 +0000" stop="20230906020000 +0000">
+    <title>Pemanis Pagi</title>
+    <desc>Perkongsian Kata-Kata Motivasi Untuk Penutup Segmen</desc>
+  </programme>
+  <programme channel="MYTV726" start="20230906020000 +0000" stop="20230906030000 +0000">
+    <title>Seleksi Manis</title>
+    <desc>Tunaikan Permintaan Lagu Dari Pendengar</desc>
+  </programme>
+  <programme channel="MYTV726" start="20230906030000 +0000" stop="20230906040000 +0000">
+    <title>Chit Chat Manis</title>
+    <desc>Sembang santai bersama tetamu jemputan</desc>
+  </programme>
+  <programme channel="MYTV726" start="20230906040000 +0000" stop="20230906041500 +0000">
+    <title>Buletin Manis &amp; Buletin Darul Iman</title>
+    <desc>Laporan Berita Utama Nasional , Luar Negara serta  Laporan Berita Terengganu</desc>
+  </programme>
+  <programme channel="MYTV726" start="20230906041500 +0000" stop="20230906050000 +0000">
+    <title>Manis Corner</title>
+    <desc>Perkongsian keusahawanan dan kupasan  reaksi gaya hidup bersama panel jemputan</desc>
+  </programme>
+  <programme channel="MYTV726" start="20230906050000 +0000" stop="20230906060000 +0000">
+    <title>Kalam Manis</title>
+    <desc>Perkongsian Hadis Dan Sunnah Rasulullah Saw</desc>
+  </programme>
+  <programme channel="MYTV726" start="20230906060000 +0000" stop="20230906070000 +0000">
+    <title>3 Lagu Tanpa Henti&#xA0;</title>
+    <desc>3 Lagu Artis Pilihan Nura</desc>
+  </programme>
+  <programme channel="MYTV726" start="20230906070000 +0000" stop="20230906073000 +0000">
+    <title>Dey Mikir Dok</title>
+    <desc>Permainan mudah dan ringkas bersama pendengar</desc>
+  </programme>
+  <programme channel="MYTV726" start="20230906073000 +0000" stop="20230906080000 +0000">
+    <title>Sinergi Xpress</title>
+    <desc>Perkongsian Topik Intelektual Terkini Yang Lebih Terperinci Membincangkan Isu-Isu Semasa Yang Berlaku Dalam Dan Luar Negara Bersama Panel Jemputan</desc>
+  </programme>
+  <programme channel="MYTV726" start="20230906080000 +0000" stop="20230906090000 +0000">
+    <title>Playlist lagu</title>
+    <desc>Susunan lagu lagu untuk pendengar</desc>
+  </programme>
+  <programme channel="MYTV726" start="20230906090000 +0000" stop="20230906090500 +0000">
+    <title>Buletin Manis &amp; Buletin Darul Iman</title>
+    <desc>Laporan Berita Utama Nasional , Luar Negara serta  Laporan Berita Terengganu</desc>
+  </programme>
+  <programme channel="MYTV726" start="20230906090500 +0000" stop="20230906100000 +0000">
+    <title>Hello Manis</title>
+    <desc>Perkongsian bersama pendengar mengenai sesebuah lagu</desc>
+  </programme>
+  <programme channel="MYTV726" start="20230906100000 +0000" stop="20230906101500 +0000">
+    <title>Playlist lagu</title>
+    <desc>Susunan lagu-lagu</desc>
+  </programme>
+  <programme channel="MYTV726" start="20230906101500 +0000" stop="20230906103000 +0000">
+    <title>Woye Kito (Ulangan)</title>
+    <desc>Sketsa Lawak Wayang Kulit Yang Berunsurkan Nasihat</desc>
+  </programme>
+  <programme channel="MYTV726" start="20230906103000 +0000" stop="20230906110000 +0000">
+    <title>Nok Kabo Nih</title>
+    <desc>Perkongsian loghat dan dialek pantai timur dan  Perkongsian loghat tiga negeri bersama Troopers Manis FM</desc>
+  </programme>
+  <programme channel="MYTV726" start="20230906110000 +0000" stop="20230906113000 +0000">
+    <title>Playlist lagu</title>
+    <desc>Playlist lagu nasyid &amp; kerohanian</desc>
+  </programme>
+  <programme channel="MYTV726" start="20230906113000 +0000" stop="20230906120000 +0000">
+    <title>Kuliah Maghrib Bersama Dato&#x2019; Dr Abd Basit Abd Rahman</title>
+    <desc>Perkongsian Kuliah Maghrib yang mengupas mengenai Tafsir Al-Quran kitab Pimpinan Ar-Rahman</desc>
+  </programme>
+  <programme channel="MYTV726" start="20230906120000 +0000" stop="20230906130000 +0000">
+    <title>Manis Check-In</title>
+    <desc>Perkongsian  lokasi pendengar</desc>
+  </programme>
+  <programme channel="MYTV726" start="20230906130000 +0000" stop="20230906160000 +0000">
+    <title>Chill Malam&#xA0;</title>
+    <desc>Perkongsian cerita semasa bersama Pendengar</desc>
   </programme>
   <programme channel="MYTV105" start="20230830180000 +0000" stop="20230830194500 +0000">
     <title>Tears of the Mom</title>
@@ -13878,5 +14030,85 @@
   <programme channel="MYTV105" start="20230905160000 +0000" stop="20230905180000 +0000">
     <title>My Mr. Right</title>
     <desc>My Mr. Right</desc>
+  </programme>
+  <programme channel="MYTV105" start="20230905180000 +0000" stop="20230905194500 +0000">
+    <title>Tears of the Mom</title>
+    <desc>Tears of the Mom</desc>
+  </programme>
+  <programme channel="MYTV105" start="20230905194500 +0000" stop="20230905202500 +0000">
+    <title>See The Future with Foxconn EP7</title>
+    <desc>See The Future with Foxconn EP7</desc>
+  </programme>
+  <programme channel="MYTV105" start="20230905202500 +0000" stop="20230905210000 +0000">
+    <title>See The Future with DELTA Electronics EP8</title>
+    <desc>See The Future with DELTA Electronics EP8</desc>
+  </programme>
+  <programme channel="MYTV105" start="20230905210000 +0000" stop="20230905224500 +0000">
+    <title>Braven</title>
+    <desc>Braven</desc>
+  </programme>
+  <programme channel="MYTV105" start="20230905224500 +0000" stop="20230906002500 +0000">
+    <title>Office Uprising</title>
+    <desc>Office Uprising</desc>
+  </programme>
+  <programme channel="MYTV105" start="20230906002500 +0000" stop="20230906010500 +0000">
+    <title>See The Future with Foxconn EP7</title>
+    <desc>See The Future with Foxconn EP7</desc>
+  </programme>
+  <programme channel="MYTV105" start="20230906010500 +0000" stop="20230906014000 +0000">
+    <title>See The Future with DELTA Electronics EP8</title>
+    <desc>See The Future with DELTA Electronics EP8</desc>
+  </programme>
+  <programme channel="MYTV105" start="20230906014000 +0000" stop="20230906032500 +0000">
+    <title>My Mr. Right</title>
+    <desc>My Mr. Right</desc>
+  </programme>
+  <programme channel="MYTV105" start="20230906032500 +0000" stop="20230906050500 +0000">
+    <title>Tears of the Mom</title>
+    <desc>Tears of the Mom</desc>
+  </programme>
+  <programme channel="MYTV105" start="20230906050500 +0000" stop="20230906054500 +0000">
+    <title>See The Future with Foxconn EP7</title>
+    <desc>See The Future with Foxconn EP7</desc>
+  </programme>
+  <programme channel="MYTV105" start="20230906054500 +0000" stop="20230906062000 +0000">
+    <title>See The Future with DELTA Electronics EP8</title>
+    <desc>See The Future with DELTA Electronics EP8</desc>
+  </programme>
+  <programme channel="MYTV105" start="20230906062000 +0000" stop="20230906080500 +0000">
+    <title>Braven</title>
+    <desc>Braven</desc>
+  </programme>
+  <programme channel="MYTV105" start="20230906080500 +0000" stop="20230906094500 +0000">
+    <title>Office Uprising</title>
+    <desc>Office Uprising</desc>
+  </programme>
+  <programme channel="MYTV105" start="20230906094500 +0000" stop="20230906102500 +0000">
+    <title>See The Future with Foxconn EP7</title>
+    <desc>See The Future with Foxconn EP7</desc>
+  </programme>
+  <programme channel="MYTV105" start="20230906102500 +0000" stop="20230906110000 +0000">
+    <title>See The Future with DELTA Electronics EP8</title>
+    <desc>See The Future with DELTA Electronics EP8</desc>
+  </programme>
+  <programme channel="MYTV105" start="20230906110000 +0000" stop="20230906124500 +0000">
+    <title>My Mr. Right</title>
+    <desc>My Mr. Right</desc>
+  </programme>
+  <programme channel="MYTV105" start="20230906124500 +0000" stop="20230906142500 +0000">
+    <title>Tears of the Mom</title>
+    <desc>Tears of the Mom</desc>
+  </programme>
+  <programme channel="MYTV105" start="20230906142500 +0000" stop="20230906150500 +0000">
+    <title>See The Future with Foxconn EP7</title>
+    <desc>See The Future with Foxconn EP7</desc>
+  </programme>
+  <programme channel="MYTV105" start="20230906150500 +0000" stop="20230906160000 +0000">
+    <title>See The Future with DELTA Electronics EP8</title>
+    <desc>See The Future with DELTA Electronics EP8</desc>
+  </programme>
+  <programme channel="MYTV105" start="20230906160000 +0000" stop="20230906180000 +0000">
+    <title>Braven</title>
+    <desc>Braven</desc>
   </programme>
 </tv>
